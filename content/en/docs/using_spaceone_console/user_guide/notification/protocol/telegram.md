@@ -21,11 +21,7 @@ You will need a **BOT API TOKEN** and **CHAT ID**.
 ### How to get BOT API Token
 Open `Telegram`, and create a new Bot by searching for `@BotFather` and then typing `/start` , `/token`, and `/newbot` by turns. Your interaction with BotFather will be similar as following: 
 <br>
-![telegram_search_botfather.png](/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_search_botfather.png)
-<br>
-![telegram_start.png](/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_start.png)
-<br>
-![telegram_search_botfather.png](/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_get_http_api_token.png) 
+![telegram_get_http_tlken.png](/docs/content/en/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_get_http_tlken.png)
 <br>
 Do not forget that the username must end in bot and must be unique. 
 You will get given a HTTP API token which is your BOT API Token to be used in SpaceONE. It will be in the form **`XXXXXXXXX: YYYYYYYYYYYYYYYYYYYYYYYYYYYYY`**.
@@ -53,7 +49,7 @@ Eg, If chat id = -123456789, occasionally quickly copying and pasting you may fo
 ## Add Telegram Channel to your Project / User in SpaceONE 
 Go to `SpaceONE Console` > `Project` which you want to get alerts through `Telegram`. 
 <br>
-![telegram_spaceone_console.png](/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_spaceone_console.png) <br>
+![telegram_spaceone_console.png](/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_spaceone_consol.png) <br>
 <br>
 Set information above.
 ![telegram_spaceone_console.png](/docs/using_spaceone_console/user_guide/notification/notification_img/telegram_add_info.png) 
