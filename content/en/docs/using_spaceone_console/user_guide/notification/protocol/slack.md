@@ -1,6 +1,6 @@
 ---
 title: "Slack Protocol"
-linkTitle: "Telegram Protocol"
+linkTitle: "Slack Protocol"
 weight: 1
 date: 2021-08-13
 description: >
