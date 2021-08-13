@@ -1,7 +1,7 @@
 ---
 title: "Telegram Protocol"
-linkTitle: "Telegram Telegram Protocol"
-weight: 1
+linkTitle: "Telegram Protocol"
+weight: 2
 date: 2021-08-12
 description: >
     Telegram Protocol Service
