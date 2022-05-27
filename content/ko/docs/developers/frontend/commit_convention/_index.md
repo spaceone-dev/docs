@@ -4,7 +4,7 @@ linkTitle: "Commit Convention"
 weight: 3
 date: 2022-05-27
 description: >
-Frontend Commit Convention
+    Frontend Commit Convention
 no_list: true
 ---
 
