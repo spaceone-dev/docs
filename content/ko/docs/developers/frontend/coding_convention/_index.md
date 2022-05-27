@@ -1,15 +1,15 @@
 ---
-title: "Coding Style"
-linkTitle: "Coding Style"
+title: "Coding Convention"
+linkTitle: "Coding Convention"
 weight: 3
 date: 2022-05-27
 description: >
-    Frontend Coding Style
+    Frontend Coding Convention
 no_list: true
 ---
 
 
-프론트엔드 코딩 스타일에 대한 내용입니다.
+프론트엔드 코딩 컨벤션에 대한 문서입니다.
 [Console](https://github.com/spaceone-dev/console), 
 [Design System](https://github.com/spaceone-dev/spaceone-design-system),
 [Core Lib](https://github.com/spaceone-dev/console-core-lib)
