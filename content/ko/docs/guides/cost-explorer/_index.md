@@ -1,6 +1,6 @@
 ---
-title: "Cost Explorer"
-linkTitle: "Cost Explorer"
+title: "비용 분석"
+linkTitle: "비용 분석"
 weight: 4
 date: 2022-06-07
 description: >
