@@ -18,17 +18,16 @@ description: >
 - **외부 사용자**: 도메인이 가지고 있는 외부 사용자 인증을 따름
 - **API Only**: 오직 API만 사용 가능하며 클라우드포레 콘솔 접근이 불가함
 
-<br>
 ### 내부 사용자 추가하기
 내부 사용자는 로그인 페이지에서 아이디와 비밀번호를 사용해 로그인 할 수 있는 사용자입니다.
 
 (1) [관리 > 사용자] 페이지에서 [생성] 버튼을 클릭합니다.
 
-{이미지}
+![user-create-01](/ko/docs/guides/administration/iam-user-img/user-create-01.png)
 
 (2) [사용자 추가] 모달이 열린 뒤, 내부 사용자 추가를 위해 [Local] 탭을 선택합니다.
 
-{번호있는이미지}
+![user-create-02](/ko/docs/guides/administration/iam-user-img/user-create-02.png)
 
 (2-1) 내부 사용자의 아이디를 입력한 뒤, [아이디 확인] 버튼을 클릭합니다. 사용자 아이디는 이메일 형식이어야 하며, 기존 사용자 목록에 없는 아이디어야 합니다.
 
@@ -47,16 +46,16 @@ description: >
 ### 외부 사용자 추가하기
 외부 사용자 추가는 해당 도메인이 가지고 있는 외부 사용자 인증을 따릅니다. 만약 인증된 외부 사용자가 아닐 경우 사용자로 추가할 수 없습니다.
 
-{이미지}
+![user-create-03](/ko/docs/guides/administration/iam-user-img/user-create-03.png)
 
 
 ### API Only 사용자 추가하기
 API 사용자는 클라우드포레 콘솔 접근이 불가하며, 오직 API만 사용할 수 있습니다.
 
-{이미지}
+![user-create-04](/ko/docs/guides/administration/iam-user-img/user-create-04.png)
 
 
 ## 사용자 상세 보기
 사용자 페이지의 테이블에서 특정 사용자를 선택하면, 해당 사용자에 대한 상세한 정보를 볼 수 있습니다.
 
-{이미지}
+![user-detail-01](/ko/docs/guides/administration/iam-user-img/user-detail-01.png)
