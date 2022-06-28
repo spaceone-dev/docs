@@ -89,17 +89,17 @@ AWS Data-Transfer와 AWS CloudFront의 데이터 전송 및 비용 발생 현황
 #### 기본 위젯 추가하기
 (1) 오른쪽의 [위젯 추가] 버튼을 클릭합니다.
 
-![cost-dashboard-edit-03](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-03.png)
+![cost-dashboard-basic-widget-add-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-basic-widget-add-01.png)
 
 (2) [새로운 위젯 추가] 모달에서 [기본] 탭을 선택합니다.
 
 (2-1) 왼쪽의 [위젯 템플릿] 목록에서 템플릿을 선택합니다.
 
-![cost-dashboard-edit-04](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-04.png)
+![cost-dashboard-basic-widget-add-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-basic-widget-add-02.png)
 
 (2-2) 위젯의 [이름]을 입력합니다. 위젯의 종류에 따라 [그룹별 통계]를 선택해야 하는 경우도 있습니다.
 
-![cost-dashboard-edit-05](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-05.png)
+![cost-dashboard-basic-widget-add-03](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-basic-widget-add-03.png)
 
 (3) [확인] 버튼을 클릭하여 위젯 추가를 완료합니다.
 
@@ -112,21 +112,21 @@ AWS Data-Transfer와 AWS CloudFront의 데이터 전송 및 비용 발생 현황
 
 (1) 오른쪽의 [위젯 추가] 버튼을 클릭합니다.
 
-![cost-dashboard-edit-03](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-03.png)
+![cost-dashboard-custom-widget-add-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-custom-widget-add-01.png)
 
 (2) [새로운 위젯 추가] 모달에서 [커스텀] 탭을 선택합니다.
 
 (2-1) 왼쪽 하단의 [비용 분석 쿼리] 목록에서, 커스텀 위젯에 적용하고 싶은 쿼리의 [커스텀 위젯에 추가] 버튼을 클릭합니다.
 
-![cost-dashboard-edit-06](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-06.png)
+![cost-dashboard-custom-widget-add-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-custom-widget-add-02.png)
 
 (2-2) 추가된 커스텀 위젯이 왼쪽 상단의 [위젯 템플릿] 목록에 나타나면, 그것을 선택합니다.
 
-![cost-dashboard-edit-07](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-07.png)
+![cost-dashboard-custom-widget-add-03](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-custom-widget-add-03.png)
 
 (2-3) 위젯의 이름을 입력합니다.
 
-![cost-dashboard-edit-08](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-08.png)
+![cost-dashboard-custom-widget-add-04](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-custom-widget-add-04.png)
 
 (2-4) [확인] 버튼을 클릭하여 위젯 추가를 완료합니다.
 
@@ -140,20 +140,20 @@ AWS Data-Transfer와 AWS CloudFront의 데이터 전송 및 비용 발생 현황
 ### 위젯 편집하기
 (1) 위젯의 우측 상단에 있는 [편집] 아이콘 버튼을 클릭합니다.
 
-![cost-dashboard-edit-widget-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-widget-01.png)
+![cost-dashboard-widget-edit-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-widget-01.png)
 
 (2) 위젯의 이름이나 그룹별 통계를 편집한 뒤, [확인] 버튼을 클릭합니다.
 
-![cost-dashboard-edit-widget-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-widget-02.png)
+![cost-dashboard-widget-edit-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-edit-widget-02.png)
 
 ### 위젯 삭제하기
 (1) 위젯의 우측 상단에 있는 [삭제] 아이콘 버튼을 클릭합니다.
 
-![cost-dashboard-delete-widget-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-delete-widget-01.png)
+![cost-dashboard-widget-delete-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-widget-delete-01.png)
 
 (2) [위젯 삭제] 모달이 열리면 [확인] 버튼을 클릭합니다.
 
-![cost-dashboard-delete-widget-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-delete-widget-02.png)
+![cost-dashboard-widget-delete-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-widget-delete-02.png)
 
 
 ## 대시보드 설정하기
@@ -209,6 +209,7 @@ AWS Data-Transfer와 AWS CloudFront의 데이터 전송 및 비용 발생 현황
 - 대시보드 노출방식: `Public`과 `My Dashboard` 중 하나를 선택합니다.
 
 ![cost-dashboard-duplicate-dashboard-01](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-duplicate-dashboard-01.png)
+![cost-dashboard-duplicate-dashboard-02](/ko/docs/guides/cost-explorer/dashboard-img/cost-dashboard-duplicate-dashboard-02.png)
 
 ## 대시보드 PDF 다운로드하기
 대시보드 우측 상단의 [다운로드] 아이콘 버튼을 클릭하면 대시보드를 PDF로 다운로드할 수 있습니다.
