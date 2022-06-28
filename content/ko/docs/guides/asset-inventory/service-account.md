@@ -17,27 +17,27 @@ description: >
 
 프로젝트를 변경하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [프로젝트 변경]을 클릭합니다.
 
-{image1}
+![service-account-project-change-menu](/ko/docs/guides/asset-inventory/service-account-img/service-account-project-change-menu.png)
 
 생성된 모달에서 변경할 프로젝트를 선택한 후 [확인] 버튼을 클릭합니다.
 
-{image2}
+![service-account-project-change-selected](/ko/docs/guides/asset-inventory/service-account-img/service-account-project-change-selected.png)
 
 서비스 계정의 프로젝트를 선택 해제 하고 싶은 경우는, 모달 하단의 [프로젝트 선택 안 함] 항목을 선택한 후 [확인] 버튼을 클릭합니다.
 
-{image3}
+![service-account-project-unselect-selected](/ko/docs/guides/asset-inventory/service-account-img/service-account-project-unselect-selected.png)
 
 ### 콘솔 연결하기
 
 콘솔에 연결하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [콘솔 연결] 을 클릭합니다.
 
-{image4}
+![sevice-account-console-connect-menu](/ko/docs/guides/asset-inventory/service-account-img/sevice-account-console-connect-menu.png)
 
 ## 상세 정보 확인하기
 
 상세 정보를 확인하고자 하는 프로젝트를 선택하면 하단 테이블에 정보가 표시됩니다.
 
-{image5}
+![service-account-single-select](/ko/docs/guides/asset-inventory/service-account-img/service-account-single-select.png)
 
 - [상세 정보] 탭에서 다음과 같은 정보를 확인할 수 있습니다.
   • 아이디
@@ -53,10 +53,10 @@ description: >
 
 삭제하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [삭제] 를 클릭합니다.
 
-{image6}
+![service-account-delete-menu](/ko/docs/guides/asset-inventory/service-account-img/service-account-delete-menu.png)
 
 생성된 모달에서 삭제하고자하는 서비스 계정의 이름을 입력한 후 [확인] 버튼을 클릭합니다.
 
 삭제한 서비스 계정은 복구가 불가능하니 유의해주시길 바랍니다.
 
-{image7}
+![service-account-delete-modal2](/ko/docs/guides/asset-inventory/service-account-img/service-account-delete-modal2.png)
