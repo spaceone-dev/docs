@@ -9,7 +9,7 @@ description: >
 
 ## 정책이란?
 
-정책(Policy)은 실행 가능한 API 들의 권한을 의미하며, Managed / Custom 정책이 존재합니다.
+정책(Policy)은 실행 가능한 API 들의 권한을 의미하며, Managed / Custom 타입의 정책이 존재합니다.
 
 |            | Managed                                   | Custom                                                  |
 |------------|-------------------------------------------|---------------------------------------------------------|
@@ -17,21 +17,21 @@ description: >
 | 생성, 수정, 삭제 | X (불가능)                                   | O (가능)                                                  |
 | 읽기         | O (가능)                                    | O (가능)                                                  |
 
-Custom 정책만 생성, 수정, 삭제가 가능하니, 해당 기능을 이용할 때, 타입을 확인 후 진행해주시길 바랍니다.
+Custom 정책만 생성 / 수정 / 삭제가 가능하니, 해당 기능을 이용할 때 타입을 확인 후 진행해주시길 바랍니다.
 
-{image1}
+![policy-full-page](/ko/docs/guides/administration/iam-policy-img/policy-full-page.png)
 
 ## 정책 조회하기
 
 조회하고자 하는 정책의 타입을 클릭 한 후, 테이블에 연결된 ID 필드를 통해 정책 상세페이지에 진입할 수 있습니다.
 
-{image2}
+![policy-full-page](/ko/docs/guides/administration/iam-policy-img/policy-full-page.png)
 
 ## 정책 생성하기
 
 우측의 [생성] 버튼을 통해서 정책을 생성하는 페이지에 진입합니다.
 
-{image3}
+![policy-create-button](/ko/docs/guides/administration/iam-policy-img/policy-create-button.png)
 
 이름과 설명, 권한을 입력 후 정책을 생성할 수 있습니다.
 
@@ -59,7 +59,7 @@ Custom 정책만 생성, 수정, 삭제가 가능하니, 해당 기능을 이용
 
 제목 우측의 편집 아이콘 버튼을 누른 후 생성된 모달에서 정책의 이름을 편집할 수 있습니다.
 
-{image5}
+![policy-edit-icon-button](/ko/docs/guides/administration/iam-policy-img/policy-edit-icon-button.png)
 
 ### 정책 내용 편집하기
 
@@ -67,7 +67,7 @@ Custom 정책만 생성, 수정, 삭제가 가능하니, 해당 기능을 이용
 
 하단의 코드블럭에서 권한을 수정할 수 있습니다. 복수개의 권한은 개행으로 구분됩니다.
 
-{image6}
+![policy-detail-page-with-new-permission](/ko/docs/guides/administration/iam-policy-img/policy-detail-page-with-new-permission.png)
 
 ## 정책 삭제하기
 
@@ -75,8 +75,8 @@ Custom 정책만 생성, 수정, 삭제가 가능하니, 해당 기능을 이용
 
 삭제 아이콘 버튼을 누른 후 생성된 모달에서 정책을 삭제할 수 있습니다.
 
-{image7}
+![policy-delete-icon-button](/ko/docs/guides/administration/iam-policy-img/policy-delete-icon-button.png)
 
 이때 역할(Role)이 연결되어있는 정책은 삭제가 불가하오니, 역할(Role) 페이지로 이동하여 검토를 진행해주세요.
 
-{image8}
+![policy-cannot-delete-modal](/ko/docs/guides/administration/iam-policy-img/policy-cannot-delete-modal.png)
