@@ -17,11 +17,11 @@ description: >
 
 (2) [프로젝트 그룹 생성하기] 버튼을 클릭합니다.
 
-![project-group-create-01](/ko/docs/guides/getting-started/project-setup-img/project-group-create-01.png)
+![project-group-create-button](/ko/docs/guides/getting-started/project-setup-img/project-group-create-button.png)
 
 (3) [프로젝트 그룹 생성] 모달에서 프로젝트 그룹 이름을 입력 후 [확인] 버튼을 클릭하여 프로젝트 그룹을 생성합니다.
 
-![project-group-create-02](/ko/docs/guides/getting-started/project-setup-img/project-group-create-02.png)
+![project-group-create-modal](/ko/docs/guides/getting-started/project-setup-img/project-group-create-modal.png)
 
 ## 프로젝트 생성하기
 
@@ -31,13 +31,13 @@ description: >
 
 (1) 왼쪽의 프로젝트 그룹 목록에서, 앞에서 생성한 프로젝트 그룹을 선택합니다.
 
-![project-create-01](/ko/docs/guides/getting-started/project-setup-img/project-create-01.png)
+![project-group-select](/ko/docs/guides/getting-started/project-setup-img/project-group-select.png)
 
 (2) 오른쪽 상단의 [프로젝트 생성] 버튼을 클릭합니다.
 
 (3) [프로젝트 생성] 모달에서 프로젝트 이름을 입력한 후, [확인] 버튼을 클릭하여 프로젝트를 생성합니다.
 
-![project-create-02](/ko/docs/guides/getting-started/project-setup-img/project-create-02.png)
+![project-create-modal](/ko/docs/guides/getting-started/project-setup-img/project-create-modal.png)
 
 
 ## 프로젝트 그룹 멤버 초대하기
@@ -56,7 +56,7 @@ description: >
 
 (2) 오른쪽 상단에 [프로젝트 그룹 멤버 관리] 아이콘 버튼을 클릭합니다.
 
-![project-group-member-invite-01](/ko/docs/guides/getting-started/project-setup-img/project-group-member-invite-01.png)
+![project-member-icon-button](/ko/docs/guides/getting-started/project-setup-img/project-member-icon-button.png)
 
 {{<alert title="">}}
 해당 프로젝트 그룹을 관리할 수 있는 권한이 있어야 오른쪽 상단의 버튼이 보입니다.
@@ -64,15 +64,15 @@ description: >
 
 (3) [프로젝트 그룹 멤버 관리] 페이지에서 [초대] 버튼을 클릭하여 [멤버 초대] 모달을 엽니다.
 
-![project-group-member-invite-02](/ko/docs/guides/getting-started/project-setup-img/project-group-member-invite-02.png)
+![project-member-invite-button](/ko/docs/guides/getting-started/project-setup-img/project-member-invite-button.png)
 
 (3-1) 초대하려는 멤버를 선택합니다. 한 번에 여러 멤버를 선택하여 초대할 수 있습니다.
 
-![project-group-member-invite-03](/ko/docs/guides/getting-started/project-setup-img/project-group-member-invite-03.png)
+![project-member-invite-modal-member-added](/ko/docs/guides/getting-started/project-setup-img/project-member-invite-modal-member-added.png)
 
 (3-2) 초대할 멤버들에게 부여할 역할(Role)을 선택합니다.
 
-![project-group-member-invite-04](/ko/docs/guides/getting-started/project-setup-img/project-group-member-invite-04.png)
+![project-member-invite-modal-role-added](/ko/docs/guides/getting-started/project-setup-img/project-member-invite-modal-role-added.png)
 
 {{<alert title="멤버 역할(Role)">}}
 프로젝트의 멤버에게 부여할 수 있는 역할(Role)은 `User` 타입의 [역할(Role)](/ko/docs/guides/administration/iam-role)만 가능합니다.
@@ -82,4 +82,4 @@ description: >
 
 (3-4) [확인] 버튼을 클릭하여 멤버 초대를 완료합니다.
 
-![project-group-member-invite-05](/ko/docs/guides/getting-started/project-setup-img/project-group-member-invite-05.png)
+![project-member-invited](/ko/docs/guides/getting-started/project-setup-img/project-member-invited.png)
