@@ -28,13 +28,13 @@ description: >
 
 최상위에 프로젝트 그룹을 생성할 수 있는 역할(Role)이 부여되지 않은 사용자에게는 해당 버튼이 보이지 않습니다.
 
-![project-group-create-01](/ko/docs/guides/project/project-group-img/project-group-create-01.png)
+![project-group-full-page](/ko/docs/guides/project/project-group-img/project-group-full-page.png)
 
 {{</alert>}}
 
 (4) [프로젝트 그룹 생성] 모달에서 원하는 이름을 입력한 후 [확인] 버튼을 클릭하여 프로젝트 그룹 생성을 완료합니다.
 
-![project-group-create-02](/ko/docs/guides/project/project-group-img/project-group-create-02.png)
+![project-group-create-modal](/ko/docs/guides/project/project-group-img/project-group-create-modal.png)
 
 ### 하위 프로젝트 그룹 생성하기
 
@@ -44,7 +44,7 @@ description: >
 
 (1) 왼쪽의 [프로젝트 그룹] 목록에서 하위에 프로젝트 그룹을 생성하고 싶은 상위 프로젝트 그룹에 마우스 커서를 올리면, 오른쪽에 표시되는  [+] 버튼을 클릭합니다.
 
-![project-group-create-03](/ko/docs/guides/project/project-group-img/project-group-create-03.png)
+![project-group-create-button-from-lnb](/ko/docs/guides/project/project-group-img/project-group-create-button-from-lnb.png)
 
 {{<alert title="[+] 버튼이 비활성화된 경우">}}
 
@@ -52,17 +52,17 @@ description: >
 
 관리자에게 프로젝트 그룹 멤버로 초대를 요청하거나 역할(Role) 변경을 요청하세요.
 
-![project-group-create-04](/ko/docs/guides/project/project-group-img/project-group-create-04.png)
+[//]: # (![project-group-create-04]&#40;/ko/docs/guides/project/project-group-img/project-group-create-04.png&#41;)
 
 {{</alert>}}
 
 (2) [프로젝트 그룹 생성] 모달에 그룹 이름을 작성한 후 [확인] 버튼을 클릭하여 프로젝트 그룹을 생성합니다.
 
-![project-group-create-05](/ko/docs/guides/project/project-group-img/project-group-create-05.png)
+![project-group-child-create-modal](/ko/docs/guides/project/project-group-img/project-group-child-create-modal.png)
 
 (3) 선택한 프로젝트 그룹 하위에 새롭게 생성한 프로젝트 그룹이 표시됩니다.
 
-![project-group-create-06](/ko/docs/guides/project/project-group-img/project-group-create-06.png)
+![project-group-child-tree](/ko/docs/guides/project/project-group-img/project-group-child-tree.png)
 
 ## 프로젝트 그룹 & 프로젝트 검색하기
 
@@ -72,7 +72,7 @@ description: >
 
 함께 검색된 프로젝트를 선택하면, 해당하는 프로젝트 상세 페이지가 새 탭으로 열립니다.
 
-![project-group-search-01](/ko/docs/guides/project/project-group-img/project-group-search-01.png)
+![project-group-search](/ko/docs/guides/project/project-group-img/project-group-search.png)
 
 ## 프로젝트 그룹 살펴보기
 
@@ -80,7 +80,7 @@ description: >
 
 생성한 프로젝트 그룹을 선택하면 해당 그룹의 상세 정보를 확인할 수 있습니다.
 
-![project-group-detail-01](/ko/docs/guides/project/project-group-img/project-group-detail-01.png)
+![project-group-single-select-from-lnb](/ko/docs/guides/project/project-group-img/project-group-single-select-from-lnb.png)
 
 ### 프로젝트 목록 조회
 
@@ -93,7 +93,7 @@ description: >
 <br>
 왼쪽의 [프로젝트 그룹] 목록 상단의 [편집] 버튼을 클릭하여 편집 모드로 전환하여 편집할 수 있습니다.
 
-![project-group-edit-01](/ko/docs/guides/project/project-group-img/project-group-edit-01.png)
+![project-group-edit-button](/ko/docs/guides/project/project-group-img/project-group-edit-button.png)
 
 {{<alert title="[편집] 버튼이 비활성화된 경우">}}
 • 프로젝트 그룹을 선택하지 않은 상태에서 [편집] 버튼이 비활성화되어 있는 경우라면, 최상위 프로젝트 그룹을 수정할 수 있는 권한이 없기 때문입니다.
@@ -110,7 +110,7 @@ description: >
 
 (3) 선택한 프로젝트 그룹의 이름을 변경하기 위해, 해당 프로젝트 그룹을 클릭하여 입력 모드로 전환합니다.
 
-![project-group-edit-02](/ko/docs/guides/project/project-group-img/project-group-edit-02.png)
+![project-group-name-change-at-lnb](/ko/docs/guides/project/project-group-img/project-group-name-change-at-lnb.png)
 
 (4) 입력 창이 나타나면 변경하려는 이름을 입력합니다. 그리고 입력 창을 제외한 다른 곳을 마우스로 클릭하여, 읽기 모드로 전환합니다.
 
@@ -124,11 +124,9 @@ description: >
 
 (2) [프로젝트 그룹] 목록 상단의 [편집] 버튼을 클릭하여 편집 모드로 전환합니다.
 
-![project-group-edit-03](/ko/docs/guides/project/project-group-img/project-group-edit-03.png)
-
 (3) 이동을 원하는 프로젝트 그룹을 클릭한 상태로 끌어서 원하는 위치에 내려놓습니다.
 
-![project-group-edit-04](/ko/docs/guides/project/project-group-img/project-group-edit-04.png)
+![project-group-project-tree-change](/ko/docs/guides/project/project-group-img/project-group-project-tree-change.png)
 
 {{<alert title="프로젝트 그룹 이동이 안되는 경우">}}
 • 선택한 프로젝트 그룹을 수정할 수 있는 권한이 없는 경우: 만약 편집 모드에서 프로젝트 그룹 선택이 안된다면, 해당 프로젝트 그룹을 이동할 수 있는 권한이 없는 것입니다.
@@ -146,8 +144,6 @@ description: >
 
 (2) [프로젝트 그룹] 목록 상단의 [편집] 버튼을 클릭하여 편집 모드로 전환합니다.
 
-![project-group-edit-05](/ko/docs/guides/project/project-group-img/project-group-edit-05.png)
-
 {{<alert title="[편집] 버튼이 활성화되지 않는 경우">}}
 해당 프로젝트 그룹을 수정할 수 있는 권한이 없기 때문입니다. 
 해당하는 그룹의 하위 프로젝트에 대하여서는 수정 권한이 있더라도, 프로젝트 그룹에는 권한이 없을 수 있습니다. 
@@ -162,11 +158,11 @@ description: >
 
 (2) 오른쪽 상단의 [설정] 버튼을 클릭한 후, 드롭다운에서 [선택한 그룹 삭제]를 선택합니다.
 
-![project-group-delete-01](/ko/docs/guides/project/project-group-img/project-group-delete-01.png)
+![project-group-delete-menu](/ko/docs/guides/project/project-group-img/project-group-delete-menu.png)
 
 (2-1) [프로젝트 그룹 삭제] 모달에서 [확인] 버튼을 클릭하여 프로젝트 그룹을 영구히 삭제합니다.
 
-![project-group-delete-02](/ko/docs/guides/project/project-group-img/project-group-delete-02.png)
+![project-group-delete-modal](/ko/docs/guides/project/project-group-img/project-group-delete-modal.png)
 
 {{<alert title="프로젝트 그룹 삭제가 안되는 경우">}}
 
