@@ -31,7 +31,7 @@ description: >
 
 (3) 오른쪽 상단에 [프로젝트 그룹 멤버 관리] 아이콘 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/795ada39-1a85-4a94-8ec8-060432f44ae8/Untitled.png)
+![project-member-icon-button](/ko/docs/guides/project/member-img/project-member-icon-button.png)
 
 {{<alert title="">}}
 해당 프로젝트 그룹을 관리할 수 있는 권한이 있어야 오른쪽 상단의 버튼이 보입니다.
@@ -39,7 +39,7 @@ description: >
 
 (4) 프로젝트 그룹 멤버 관리 페이지에서 검색어를 입력하여 조건에 부합하는 프로젝트 목록을 조회하고, 새로운 멤버를 초대하거나, 멤버를 편집 / 삭제할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63805943-2e6b-40d6-a68f-9e672b1d49a7/Untitled.png)
+![project-member-search](/ko/docs/guides/project/member-img/project-member-search.png)
 
 {{<alert title="">}}
 해당 프로젝트 그룹을 관리할 수 있는 권한이 있어야 멤버 초대 / 편집 / 삭제가 가능합니다.
@@ -49,15 +49,15 @@ description: >
 
 (1) [프로젝트 그룹 멤버 관리] 페이지에서 [초대] 버튼을 클릭하여 [멤버 초대] 모달을 엽니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fbee7c6-d7dd-48cc-8fa1-caa12c251834/Untitled.png)
+![project-member-invite-button](/ko/docs/guides/project/member-img/project-member-invite-button.png)
 
 (2) 초대하려는 멤버를 선택합니다. 한 번에 여러 멤버를 선택하여 초대할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2addd334-1b6c-495c-8d20-72344d0841f9/Untitled.png)
+![project-member-invite-modal-member](/ko/docs/guides/project/member-img/project-member-invite-modal-member.png)
 
 (3) 초대할 멤버들에게 부여할 역할(Role)을 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/424d247f-d473-43f0-8c48-d594efc1463c/Untitled.png)
+![project-member-invite-modal-role](/ko/docs/guides/project/member-img/project-member-invite-modal-role.png)
 
 {{<alert title="멤버 역할(Role)">}}
 
@@ -71,7 +71,7 @@ description: >
 
 (5) [확인] 버튼을 클릭하여 멤버 초대를 완료합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd480753-44d2-44ef-b2fc-600675e1bdcc/Untitled.png)
+![project-member-invite-success](/ko/docs/guides/project/member-img/project-member-invite-success.png)
 
 ### 프로젝트 그룹 멤버 편집하기
 
@@ -83,11 +83,11 @@ description: >
 
 (2) [작업] 드롭다운에서 [편집]을 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f54c30e-50a8-4064-b958-239b842e44ec/Untitled.png)
+![project-member-edit-menu](/ko/docs/guides/project/member-img/project-member-edit-menu.png)
 
 (3) [멤버 정보 변경] 모달에서 변경하려는 내용을 입력한 후 [확인] 버튼을 클릭하여 변경을 완료합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3072023-a0c4-47d2-bd77-70b497fde3a1/Untitled.png)
+![project-member-edit-modal](/ko/docs/guides/project/member-img/project-member-edit-modal.png)
 
 ### 프로젝트 그룹 멤버 삭제하기
 
@@ -95,11 +95,12 @@ description: >
 
 (2) [작업] 드롭다운에서 [삭제]를 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ead56ce-51e7-448e-b441-b7df25cf957a/Untitled.png)
+![project-member-delete-menu](/ko/docs/guides/project/member-img/project-member-delete-menu.png)
 
 (3) [멤버 제거] 모달에서 [확인] 버튼을 클릭하여 해당 멤버를 제거합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfc290c4-982e-420c-bde3-567c8710c755/Untitled.png)
+![project-member-delete-modal](/ko/docs/guides/project/member-img/project-member-delete-modal.png)
+
 
 ## 프로젝트 멤버 관리하기
 
@@ -110,4 +111,5 @@ description: >
 (1) 프로젝트 페이지에서 멤버를 관리하려는 프로젝트를 선택하여 프로젝트 상세 페이지로 이동합니다.
 
 (2) [멤버] 탭을 선택합니다.
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cba04ff-8c71-4f26-b036-767bd1429733/Untitled.png)
+
+![project-member-tab](/ko/docs/guides/project/member-img/project-member-tab.png)
