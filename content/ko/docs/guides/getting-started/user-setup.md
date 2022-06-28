@@ -25,17 +25,17 @@ description: >
 
 (1) [생성] 버튼을 클릭합니다.
 
-![user-create-01](/ko/docs/guides/getting-started/user-setup-img/user-create-01.png)
+![user-page](/ko/docs/guides/getting-started/user-setup-img/user-page.png)
 
 (2) [사용자 생성 모달] 에서 [Local] 탭을 선택합니다. 
 
 (2-1) 아이디를 입력 후 [아이디 확인] 버튼을 클릭하여, 유효한 아이디인지 확인합니다.
 
-![user-create-02](/ko/docs/guides/getting-started/user-setup-img/user-create-02.png)
+![user-create-modal-local-id](/ko/docs/guides/getting-started/user-setup-img/user-create-modal-local-id.png)
 
 (2-2) 사용자를 식별할 이름, 이메일, 그리고 비밀번호를 입력한 후 [확인] 버튼을 클릭하여 사용자 생성을 완료합니다.
 
-![user-create-03](/ko/docs/guides/getting-started/user-setup-img/user-create-03.png)
+![user-create-modal-local-filed](/ko/docs/guides/getting-started/user-setup-img/user-create-modal-local-filed.png)
 
 {{<alert title="어드민 권한 할당">}}
 사용자에게 어드민 권한을 부여하려면, [어드민 권한 할당] 드롭다운에서 선택하여 할당할 수 있습니다.
@@ -44,5 +44,5 @@ description: >
 
 권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)에서 확인할 수 있습니다.
 
-![user-create-04](/ko/docs/guides/getting-started/user-setup-img/user-create-04.png)
+![user-create-role-assign](/ko/docs/guides/getting-started/user-setup-img/user-create-role-assign.png)
 {{</alert>}}
