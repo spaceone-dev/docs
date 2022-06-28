@@ -52,22 +52,23 @@ description: >
 
 (2) 좌측상단 [생성] 버튼을 통해서 [역할 생성] 페이지에 진입합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12c8d015-1b5b-4a94-9bea-23dd1be567d7/Untitled.png)
+![role-create-button](/ko/docs/guides/administration/iam-role-img/role-create-button.png)
 
 (3) 역할의 이름, 설명(선택)을 작성하고, [역할 타입](/ko/docs/guides/administration/iam-role/#역할role-타입)을 선택해 줍니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38e7feaa-19a4-4b50-bcc3-453ae24d47bc/Untitled.png)
+![role-create-base-info](/ko/docs/guides/administration/iam-role-img/role-create-base-info.png)
 
 - [이름]은 최소 2글자 이상으로 작성되어야 합니다.
 - [[역할 타입]](/ko/docs/guides/administration/iam-role/#역할role-타입)은 생성 이후 수정이 불가능한 항목이므로, 신중하게 선택해주세요.
 
 (4) [페이지 접근권한](/ko/docs/guides/administration/iam-role/#클라우드포레-서비스의-페이지별-접근-권한)에 대해 설정해 줍니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f80ed10b-221c-423b-9220-e5bd782ec722/Untitled.png)
+![role-create-page-access](/ko/docs/guides/administration/iam-role-img/role-create-page-access.png)
 
 (5) 생성하려는 역할(Role)에 어떤 권한을 부여할지를 결정하기 위해, 정책(Policy)을 선택하여 연결합니다.
 
-![스크린샷 2022-06-02 오전 11.32.27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75615cae-def8-4fa7-bf91-a67e866fb631/스크린샷_2022-06-02_오전_11.32.27.png)
+![role-create-page-policy-connect](/ko/docs/guides/administration/iam-role-img/role-create-page-policy-connect.png)
+
 
 정책(Policy)관련 자세한 설명은 여기를 참고해 주십시오.
 
@@ -81,17 +82,17 @@ description: >
 
 생성이 완료된 역할들은 역할 페이지에서 조회할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0b5c6b2-310b-4d4a-a1e7-5ab04f6bb1ba/Untitled.png)
+![role-list](/ko/docs/guides/administration/iam-role-img/role-list.png)
 
 검색어를 입력하여 조건에 부합하는 역할 목록을 확인할 수 있습니다. 고급 검색에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고하세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bac43317-eef0-4bc1-959d-16215437d3b8/Untitled.png)
+![role-search](/ko/docs/guides/administration/iam-role-img/role-search.png)
 
 ### 역할 상세 정보 확인하기
 
 목차에서 역할 선택 시, 아래 [상세 정보] 탭에서 선택된 역할의 정보를 확인할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4491ee0e-3d44-4661-9c36-5f2af86afd1e/Untitled.png)
+![role-detail-info](/ko/docs/guides/administration/iam-role-img/role-detail-info.png)
 
 ## 역할 편집하기
 
@@ -99,11 +100,11 @@ description: >
 
 (1) 편집하고자 하는 역할을 역할 목록에서 선택하고, [편집] 버튼을 클릭하여 편집 페이지에 진입합니다.
 
-![스크린샷 2022-06-02 오전 10.47.08.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61fa51f9-780c-43b7-b5a3-8c56a5bf85c4/스크린샷_2022-06-02_오전_10.47.08.png)
+![role-edit-button](/ko/docs/guides/administration/iam-role-img/role-edit-button.png)
 
 (2) 역할 타입 이외에 수정사항은 [역할 생성하기](/ko/docs/guides/administration/iam-role/#역할-생성하기)와 동일합니다.
 
-![스크린샷 2022-06-03 오전 10.04.12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/feb2bd9c-506e-4573-9ff2-db10ebc79ab0/스크린샷_2022-06-03_오전_10.04.12.png)
+![role-edit-base-info](/ko/docs/guides/administration/iam-role-img/role-edit-base-info.png)
 
 기본정보의 [역할 타입]은 생성이후 수정이 불가능한 항목입니다.
 
@@ -113,7 +114,7 @@ description: >
 
 (1) 삭제하고자 하는 역할 페이지에 진입합니다.
 
-![스크린샷 2022-06-02 오전 10.55.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45b8e78e-c6d3-46ea-a079-ceec5b64d113/스크린샷_2022-06-02_오전_10.55.02.png)
+![role-delete-menu](/ko/docs/guides/administration/iam-role-img/role-delete-menu.png)
 
 삭제 시에 여러 역할을 한 번에 제거할 수 있습니다.
 
@@ -121,12 +122,12 @@ description: >
 
 이전 삭제 목록에서 선택한 역할들을 확인할 수 있습니다.
 
-![스크린샷 2022-06-02 오전 10.59.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b29b64d-f64a-4d60-a236-4b1586be4744/스크린샷_2022-06-02_오전_10.59.54.png)
+![role-delete-modal](/ko/docs/guides/administration/iam-role-img/role-delete-modal.png)
 
 {{< alert title="주의" >}}
 삭제 대상인 역할이 부여되어있는 사용자가 존재하면 삭제할 수 없습니다.
 
-![스크린샷 2022-06-02 오전 11.00.27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7d6b15e-4f45-4c6c-89d3-6b944cc95396/스크린샷_2022-06-02_오전_11.00.27.png)
+![role-cannot-delete-modal](/ko/docs/guides/administration/iam-role-img/role-cannot-delete-modal.png)
 
 삭제가 불가능한 역할이 포함되어있는 경우, 역할과 해당 역할이 할당된 사용자를 함께 보여줍니다.
 {{< /alert >}}
