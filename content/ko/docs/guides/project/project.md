@@ -23,13 +23,13 @@ description: >
 
 (2) 왼쪽의 [프로젝트 그룹] 목록에서, 프로젝트를 생성할 프로젝트 그룹을 선택합니다.
 
-![project-create-01](/ko/docs/guides/project/project-img/project-create-01.png)
+![proejct-full-page](/ko/docs/guides/project/project-img/proejct-full-page.png)
 
 (3) 오른쪽 상단의 [프로젝트 생성] 버튼을 클릭합니다.
 
 (4) [프로젝트 생성] 모달에서 프로젝트 이름을 입력한 후, [확인] 버튼을 클릭하여 프로젝트를 생성합니다.
 
-![project-create-02](/ko/docs/guides/project/project-img/project-create-02.png)
+![project-create-modal](/ko/docs/guides/project/project-img/project-create-modal.png)
 
 ## 프로젝트 목록 조회하기
 
@@ -44,13 +44,13 @@ description: >
 
 왼쪽의 [프로젝트 그룹]에서 [모든 프로젝트]를 선택하여 전체 프로젝트 목록을 조회할 수 있습니다.
 
-![project-list-01](/ko/docs/guides/project/project-img/project-list-01.png)
+![project-click-all-project](/ko/docs/guides/project/project-img/project-click-all-project.png)
 
 ### 프로젝트 그룹 내 프로젝트 목록 조회하기
 
 왼쪽의 [프로젝트 그룹] 목록에서 원하는 프로젝트 그룹을 선택하여 해당 그룹에 속한 프로젝트만을 조회할 수 있습니다.
 
-![project-list-02](/ko/docs/guides/project/project-img/project-list-02.png)
+![project-click-single-project-group](/ko/docs/guides/project/project-img/project-click-single-project-group.png)
 
 <br>
 만약 선택한 프로젝트 그룹 아래에 또다른 프로젝트 그룹들이 있다면, 다른 프로젝트 그룹에 속한 프로젝트들은 여기에 표시되지 않습니다.
@@ -74,7 +74,7 @@ description: >
 
 [요약 정보] 탭에서 프로젝트 대시보드를 통해 해당 프로젝트에 속한 리소스의 집약된 정보를 확인할 수 있습니다.
 
-![project-detail-01](/ko/docs/guides/project/project-img/project-detail-01.png)
+![project-dashboard-full-page](/ko/docs/guides/project/project-img/project-dashboard-full-page.png)
 
 <br>
 프로젝트 대시보드에서는 카테고리 별, 지역 별 리소스 사용 현황과 트렌드를 보여줍니다.
@@ -99,11 +99,11 @@ description: >
 
 (1) 프로젝트 이름 우측의 [편집] 아이콘 버튼을 클릭합니다.
 
-![project-edit-01](/ko/docs/guides/project/project-img/project-edit-01.png)
+![project-name-edit-icon-button](/ko/docs/guides/project/project-img/project-name-edit-icon-button.png)
 
 (2) [프로젝트 변경] 모달에서 변경할 이름을 입력한 후 [확인] 버튼을 클릭하여 프로젝트 이름을 변경합니다.
 
-![project-edit-02](/ko/docs/guides/project/project-img/project-edit-02.png)
+![project-name-edit-modal](/ko/docs/guides/project/project-img/project-name-edit-modal.png)
 
 ### 프로젝트 태그 관리하기
 
@@ -115,34 +115,34 @@ description: >
 
 (2) [편집] 버튼을 클릭합니다.
 
-![project-edit-tag-01](/ko/docs/guides/project/project-img/project-edit-tag-01.png)
+![project-tag-table](/ko/docs/guides/project/project-img/project-tag-table.png)
 
 (2-1) [태그] 페이지에서 [태그 추가] 버튼을 클릭합니다.
 
-![project-edit-tag-02](/ko/docs/guides/project/project-img/project-edit-tag-02.png)
+![project-tag-empty](/ko/docs/guides/project/project-img/project-tag-empty.png)
 
 (2-2) 추가하고자 하는 값을 `키: 값` 형태로 입력합니다.
 
-![project-edit-tag-03](/ko/docs/guides/project/project-img/project-edit-tag-03.png)
+![project-tag-add](/ko/docs/guides/project/project-img/project-tag-add.png)
 
 (2-3) 태그를 더 추가하고자 한다면, 원하는 개수만큼 [태그 추가] 버튼을 클릭합니다.
 
-![project-edit-tag-04](/ko/docs/guides/project/project-img/project-edit-tag-04.png)
+![project-tag-multiple](/ko/docs/guides/project/project-img/project-tag-multiple.png)
 
 (2-4) 추가한 태그 입력 창을 삭제하고자 한다면, 값 입력 창 오른쪽의 [삭제] 아이콘 버튼을 클릭하여 삭제합니다.
 
-![project-edit-tag-05](/ko/docs/guides/project/project-img/project-edit-tag-05.png)
+![project-tag-delete](/ko/docs/guides/project/project-img/project-tag-delete.png)
 
 (2-5) [저장] 버튼을 클릭하여 태그 추가를 완료한 후, [태그] 탭에서 확인합니다.
 
-![project-edit-tag-06](/ko/docs/guides/project/project-img/project-edit-tag-06.png)
+![project-tag-table-added](/ko/docs/guides/project/project-img/project-tag-table-added.png)
 
 ## 프로젝트 삭제하기
 
 (1) 프로젝트 이름 우측의 [삭제] 아이콘 버튼을 클릭합니다.
 
-![project-delete-01](/ko/docs/guides/project/project-img/project-delete-01.png)
+![project-delete-icon-button](/ko/docs/guides/project/project-img/project-delete-icon-button.png)
 
 (2) [프로젝트 삭제] 모달의 [확인] 버튼을 클릭하여 프로젝트를 삭제합니다.
 
-![project-delete-02](/ko/docs/guides/project/project-img/project-delete-02.png)
+![project-delete-modal](/ko/docs/guides/project/project-img/project-delete-modal.png)
