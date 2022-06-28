@@ -17,7 +17,7 @@ description: >
 
 [엑셀] 아이콘 버튼을 클릭하여 리소스 목록을 셀를 하거나, [설정] 아이콘 버튼을 클릭하여 [**테이블 필드 개인화**](/ko/docs/guides/advanced/custom-table)를 할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e38f0e23-0df9-47b0-b8ec-b72a5b77c846/Untitled.png)
+![server-full-page](/ko/docs/guides/asset-inventory/server-img/server-full-page.png)
 
 ## 서버 리소스 콘솔 열기
 
@@ -27,13 +27,13 @@ description: >
 
 (2) [콘솔 연결] 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/892d63e6-8b1f-4ffc-b03b-eea5145f8bc9/Untitled.png)
+![server-console-connect](/ko/docs/guides/asset-inventory/server-img/server-console-connect.png)
 
 (3) 버튼을 클릭하면 해당 서버 리소스에 대한 작업을 이어나갈 수 있는 프로바이더의 콘솔이 새 탭으로 열립니다.
 
 아래는 AWS의 EC2 Instance의 콘솔이 열린 예시입니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85148aef-7e00-45eb-b007-f392bfc91eea/Untitled.png)
+![server-console-opened](/ko/docs/guides/asset-inventory/server-img/server-console-opened.png)
 
 ## 서버 리소스 살펴보기
 
