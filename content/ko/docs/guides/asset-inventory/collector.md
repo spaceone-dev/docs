@@ -34,11 +34,11 @@ description: >
 
 (1) 왼쪽 상단의 [생성] 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb9a981d-9080-492d-804c-f06460a7bbbc/Untitled.png)
+![collector-create-button](/ko/docs/guides/asset-inventory/collector-img/collector-create-button.png)
 
 (2) 플러그인 목록 페이지에서 원하는 컬렉터 플러그인을 찾아 [생성] 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c037051-62c5-4e3b-ab05-7eff088f95cc/Untitled.png)
+![collector-plugin-lists](/ko/docs/guides/asset-inventory/collector-img/collector-plugin-lists.png)
 
 (3) [컬렉터 생성] 페이지에서 컬렉터 생성 과정을 거칩니다.
 
@@ -50,11 +50,11 @@ description: >
 
 반면, 자동 업그레이드를 활성화하면 항상 최신 버전의 플러그인으로 데이터가 수집됩니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/830a04f9-944d-4a2a-b056-d784e47e6c97/Untitled.png)
+![collector-create-base-info](/ko/docs/guides/asset-inventory/collector-img/collector-create-base-info.png)
 
 (3-2) 필요한 경우, [태그 추가] 탭에서 컬렉터에 대한 추가 정보를 입력합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d2d7081-1561-480c-838d-f74f3e9686db/Untitled.png)
+![collector-create-tags](/ko/docs/guides/asset-inventory/collector-img/collector-create-tags.png)
 
 (4) [확인] 버튼을 클릭하여 컬렉터 생성을 완료합니다.
 
@@ -64,7 +64,7 @@ description: >
 
 쿼리 검색을 통해 세밀한 조건으로 목록을 필터링할 수 있습니다. 쿼리 검색에 대한 상세 설명은 여기(링크)를 참고하세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67553f0e-cc4e-40a1-b9bc-d18f2b6105ee/Untitled.png)
+![collector-list-inquiry](/ko/docs/guides/asset-inventory/collector-img/collector-list-inquiry.png)
 
 ## 컬렉터 상세 정보 확인하기
 
@@ -74,7 +74,7 @@ description: >
 
 (2) 아래 [상세 정보] 탭에서 컬렉터의 상세한 정보를 확인할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd34b069-c6e0-44a9-b600-e4fab7d96834/Untitled.png)
+![collector-detail-info-tab](/ko/docs/guides/asset-inventory/collector-img/collector-detail-info-tab.png)
 
 ## 컬렉터 편집하기
 
@@ -82,11 +82,11 @@ description: >
 
 (2) [작업] 드롭다운에서 [편집] 메뉴를 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a617f3b0-7e13-4ddf-aade-c5ad8aa18be5/Untitled.png)
+![collector-edit-menu](/ko/docs/guides/asset-inventory/collector-img/collector-edit-menu.png)
 
 (3) [컬렉터 편집] 모달에서 값을 변경한 후 [확인] 버튼을 클릭하여 편집을 완료합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4311369-095f-4ff5-a2d7-5b4affa6a3d1/Untitled.png)
+![collector-edit-modal](/ko/docs/guides/asset-inventory/collector-img/collector-edit-modal.png)
 
 ## 컬렉터 활성화/비활성화 하기
 
@@ -96,11 +96,11 @@ description: >
 
 (2) [작업] 드롭다운에서 [활성화] 혹은 [비활성화] 항목을 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d4c3d33-24c6-42f8-93f1-b9ebe21a1927/Untitled.png)
+![collector-multi-select-for-disable](/ko/docs/guides/asset-inventory/collector-img/collector-multi-select-for-disable.png)
 
 (3) [컬렉터 활성화] 혹은 [컬렉터 비활성화] 모달에서 선택한 항목들을 확인한 후, [확인] 버튼을 클릭하여 활성화/비활성화를 완료합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87e27c88-3e15-470b-a309-ec46991a7ea9/Untitled.png)
+![collector-disable-modal](/ko/docs/guides/asset-inventory/collector-img/collector-disable-modal.png)
 
 ## 컬렉터 삭제하기
 
@@ -110,11 +110,11 @@ description: >
 
 (2) [작업] 드롭다운에서 [삭제] 메뉴를 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb76fcf7-58ea-4374-9d08-f60154eeefd8/Untitled.png)
+![collector-delete-menu](/ko/docs/guides/asset-inventory/collector-img/collector-delete-menu.png)
 
 (3) [컬렉터 삭제] 모달에서 선택한 항목들을 확인한 후, [확인] 버튼을 클릭하여 삭제를 완료합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91743ef8-c286-4095-9b8c-92fb87a8459d/Untitled.png)
+![collector-delete-modal](/ko/docs/guides/asset-inventory/collector-img/collector-delete-modal.png)
 
 ## 일회성 데이터 수집하기
 
@@ -137,15 +137,15 @@ description: >
 
 (2) [작업] 드롭다운에서 [데이터 수집] 메뉴를 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcc087ad-8fa2-4f8f-b7ef-4aa088fc6244/Untitled.png)
+![collector-collect-data-menu](/ko/docs/guides/asset-inventory/collector-img/collector-collect-data-menu.png)
 
 (3) [데이터 수집] 모달에서 [확인] 버튼을 클릭하여 데이터 수집을 시작합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1710f42-c867-41b3-b517-f76baa30f974/Untitled.png)
+![collector-collect-data-modal](/ko/docs/guides/asset-inventory/collector-img/collector-collect-data-modal.png)
 
 (4) 해당 컬렉터가 데이터 수집을 완료했는지 여부는 컬렉터 히스토리(링크)에서 확인 가능합니다. 선택한 컬렉터의 [상세 보기] 링크를 클릭하여 해당 페이지로 이동할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc45ace9-afb8-405e-84ad-b19518f3c077/Untitled.png)
+![collector-history-at-table](/ko/docs/guides/asset-inventory/collector-img/collector-history-at-table.png)
 
 ### 하나의 서비스 계정에 대하여 데이터 수집하기
 
@@ -166,13 +166,13 @@ description: >
 
 {{</alert>}}
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6c0d0ea-e39b-424f-a0a2-f2d04e414485/Untitled.png)
+![collector-password-key-tab-data-collect-button](/ko/docs/guides/asset-inventory/collector-img/collector-password-key-tab-data-collect-button.png)
 
 (3) 데이터를 수집하고자 하는 서비스 계정의 오른쪽 [데이터 수집] 버튼을 클릭합니다.
 
 (4) [데이터 수집] 모달에서 [확인] 버튼을 클릭하여 데이터 수집을 시작합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9020813-3bcb-4ea6-8a07-5472fafac819/Untitled.png)
+![collector-data-collect-modal](/ko/docs/guides/asset-inventory/collector-img/collector-data-collect-modal.png)
 
 ## 데이터 수집 스케줄 설정하기
 
@@ -184,7 +184,7 @@ description: >
 
 여기에서 스케줄 목록을 확인하거나 추가/변경/삭제할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c713307-a411-457d-980e-03b46631940b/Untitled.png)
+![collector-schedule-tab](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-tab.png)
 
 ### 스케줄 추가하기
 
@@ -192,17 +192,18 @@ description: >
 
 (2) [스케줄 추가] 모달에서 값을 입력합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7625de0-d1ad-452f-84c2-f38565fadafd/Untitled.png)
+![collector-schedule-modal](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-modal.png)
 
 (2-1) 식별 가능한 이름과 설정한 스케줄이 동작할 시간대(타임존)를 선택합니다.
 
 (2-2) 컬렉터가 데이터를 수집할 스케줄을 설정합니다. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9000c263-1248-4e67-a2f9-24287877cbaa/Untitled.png)
 <br>
 <br>
 
 스케줄을 설정할 때에는 두 가지 방식이 있습니다.
+
+![collector-schedule-type](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-type.png)
 
 - 시간으로 설정: 반복을 원하는 시간을 입력하면, 입력한 모든 시간마다 데이터를 수집합니다. 이를 매일 반복합니다.
 - 반복 주기로 설정: 입력한 시간 주기로 데이터를 수집합니다. 플러그인에서 지원하는 시간 단위(시, 분, 초)에 따라 입력 양식도 달라집니다.
@@ -226,11 +227,11 @@ description: >
 
 (2) [작업] 드롭다운에서 [변경]을 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e9daf3f-d688-4544-a738-5001ad0fc9dd/Untitled.png)
+![collector-schedule-edit-menu](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-edit-menu.png)
 
 (2-1) [스케줄 변경] 모달에서 변경할 내용을 입력합니다. 스케줄 추가 양식과 동일하므로, 위의 스케줄 추가하기(링크)를 참고하세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/925575a5-40ad-4c9d-b486-955342769ea1/Untitled.png)
+![collector-schedule-edit-modal](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-edit-modal.png)
 
 (3) [확인] 버튼을 클릭하여 변경을 완료합니다.
 
@@ -240,11 +241,11 @@ description: >
 
 (2) [작업] 드롭다운에서 [삭제] 메뉴를 선택합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7801fd3-5412-42e5-b0fa-72f09b95f8b1/Untitled.png)
+![collector-schedule-delete-menu](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-delete-menu.png)
 
 (3) [스케줄 삭제] 모달에서 삭제할 스케줄의 내용을 확인하고, [확인] 버튼을 클릭하여 삭제를 완료합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12893694-4172-4bc1-bcd9-3a97a580374c/Untitled.png)
+![collector-schedule-delete-modal](/ko/docs/guides/asset-inventory/collector-img/collector-schedule-delete-modal.png)
 
 ## 데이터 수집 내역 확인하기
 
@@ -254,13 +255,13 @@ description: >
 
 특정 컬렉터의 데이터 수집 내역만을 확인하고 싶다면, 컬렉터 목록의 [상세 보기] 버튼을 클릭하여 이동할 수도 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90929aa9-7942-4b37-9bee-222ece88711c/Untitled.png)
+![collector-history-at-table](/ko/docs/guides/asset-inventory/collector-img/collector-history-at-table.png)
 
 ### 데이터 수집 목록 조회하기
 
 컬렉터 히스토레 페이지 상단의 차트를 통해, 날짜별 데이터 수집 현황을 빠르게 확인할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e2c2095-148a-49c2-865e-99719eae29ed/Untitled.png)
+![collector-history-full-page](/ko/docs/guides/asset-inventory/collector-img/collector-history-full-page.png)
 
 하단의 목록에서는 쿼리 검색과 상태 필터 조건에 맞는 데이터 수집 목록이 표시됩니다. 쿼리 검색에 대한 자세한 설명은 여기(링크)를 참고하세요.
 
@@ -270,7 +271,7 @@ description: >
 
 데이터 수집 내역에 대하여 더욱 자세한 정보를 확인하려면, 목록에서 확인하려는 항목을 선택하여 수집 내역 상세 페이지로 이동합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37a97d10-fd59-4510-b585-1e76c620ce1a/Untitled.png)
+![collector-history-detail-full-page](/ko/docs/guides/asset-inventory/collector-img/collector-history-detail-full-page.png)
 
 데이터 수집 상태와 기본 정보, 그리고 **서비스 계정 별 상세 수집 목록**을 확인할 수 있습니다.
 
@@ -284,7 +285,7 @@ description: >
 컬렉터는 데이터 수집 시 서비스 계정을 통해 클라우드 프로바이더의 계정에 접근하여 데이터를 가져옵니다.
 {{</alert>}}
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56a99b55-16cd-4eef-9940-d441da40a9cc/Untitled.png)
+![collector-history-detail-table](/ko/docs/guides/asset-inventory/collector-img/collector-history-detail-table.png)
 
 - Created Count: 새롭게 추가된 리소스의 개수
 - Updated Count: 가져온 리소스의 개수
@@ -297,7 +298,7 @@ description: >
 
 (2) 아래의 [에러 목록] 탭에서 오류에 대한 자세한 내역을 확인할 수 있습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc2c2029-bf36-413c-a9d2-9e33f250c4bd/Untitled.png)
+![collector-history-error-list](/ko/docs/guides/asset-inventory/collector-img/collector-history-error-list.png)
 
 ## 컬렉터 태그 관리하기
 
@@ -307,22 +308,22 @@ description: >
 
 (2) [편집] 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3c58e2b-f08c-468a-b758-f89b844b4669/Untitled.png)
+![collector-tag-edit](/ko/docs/guides/asset-inventory/collector-img/collector-tag-edit.png)
 
 (2-1) [태그] 페이지에서 [태그 추가] 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc422be2-b162-4528-b2a1-8e1e84aca3a2/Untitled.png)
+![collector-tag-add](/ko/docs/guides/asset-inventory/collector-img/collector-tag-add.png)
 
 (2-2) 추가하고자 하는 값을 `키: 값` 형태로 입력합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a474e2eb-0f29-46c7-94db-b6abd07077b3/Untitled.png)
+![collector-tag-filled](/ko/docs/guides/asset-inventory/collector-img/collector-tag-filled.png)
 
 (2-3) 태그를 더 추가하고자 한다면, 원하는 개수만큼 [태그 추가] 버튼을 클릭합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86e6ac95-2234-4664-a494-ddcdd3484f42/Untitled.png)
+![collector-tag-multiple](/ko/docs/guides/asset-inventory/collector-img/collector-tag-multiple.png)
 
 2-4) 추가한 태그 입력 창을 삭제하고자 한다면, 값 입력 창 오른쪽의 [삭제] 버튼을 클릭하여 삭제합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22196a6f-78f8-4339-b6bd-fc8cd9f66851/Untitled.png)
+![collector-tag-delete](/ko/docs/guides/asset-inventory/collector-img/collector-tag-delete.png)
 
 (2-5) [저장] 버튼을 클릭하여 태그 추가를 완료한 후, [태그] 탭에서 확인합니다.
