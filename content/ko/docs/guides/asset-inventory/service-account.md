@@ -9,13 +9,35 @@ description: >
 
 ## 서비스 계정 추가하기
 
-[서비스 계정 설정](/ko/docs/guides/getting-started/service-account-setup)
+(1) [에셋 인벤토리 > 서비스 계정] 페이지에서 추가할 클라우드 서비스를 선택합니다.
+
+![service-account-provider-menu](/ko/docs/guides/asset-inventory/service-account-img/service-account-provider-menu.png)
+
+(2) [추가] 버튼을 클릭합니다.
+
+![service-account-add-button](/ko/docs/guides/asset-inventory/service-account-img/service-account-add-button.png)
+
+(3) 서비스 계정 생성 폼을 작성합니다.
+
+(3-1) 기본 정보를 입력합니다.
+
+![service-account-add-base-info](/ko/docs/guides/asset-inventory/service-account-img/service-account-add-base-info.png)
+
+(3-2) 해당 서비스 계정에 따른 리소스를 수집할 프로젝트를 지정합니다.
+
+![service-account-connect-project](/ko/docs/guides/asset-inventory/service-account-img/service-account-connect-project.png)
+
+(3-3) 암호화 키 정보를 입력합니다.
+
+![service-account-add-key](/ko/docs/guides/asset-inventory/service-account-img/service-account-add-key.png)
+
+(4) [저장] 버튼을 클릭하여 완료합니다.
 
 ## 서비스 계정 관리하기
 
 ### 프로젝트 변경하기
 
-프로젝트를 변경하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [프로젝트 변경]을 클릭합니다.
+프로젝트를 변경하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [프로젝트 변경] 버튼을 클릭합니다.
 
 ![service-account-project-change-menu](/ko/docs/guides/asset-inventory/service-account-img/service-account-project-change-menu.png)
 
@@ -29,7 +51,7 @@ description: >
 
 ### 콘솔 연결하기
 
-콘솔에 연결하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [콘솔 연결] 을 클릭합니다.
+콘솔에 연결하고자 하는 서비스 계정을 선택한 뒤, [작업] 드롭다운에서 [콘솔 연결] 메뉴를 클릭합니다.
 
 ![sevice-account-console-connect-menu](/ko/docs/guides/asset-inventory/service-account-img/sevice-account-console-connect-menu.png)
 
@@ -57,13 +79,15 @@ description: >
 <br />
   • 자세한 내용은 [멤버](/ko/docs/guides/project/member)에서 확인 가능합니다.
 
+## 서비스 계정 삭제하기
+{{<alert>}}
+삭제한 서비스 계정은 복구가 불가능하니 유의해주시길 바랍니다.
+{{</alert>}}
 
-삭제하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [삭제] 를 클릭합니다.
+삭제하고자 하는 서비스 계정을 선택한 뒤, [작업] 드롭다운에서 [삭제] 메뉴를 클릭합니다.
 
 ![service-account-delete-menu](/ko/docs/guides/asset-inventory/service-account-img/service-account-delete-menu.png)
 
-생성된 모달에서 삭제하고자하는 서비스 계정의 이름을 입력한 후 [확인] 버튼을 클릭합니다.
-
-삭제한 서비스 계정은 복구가 불가능하니 유의해주시길 바랍니다.
+[서비스 계정 삭제] 모달에서 삭제하고자 하는 서비스 계정의 이름을 입력한 후 [확인] 버튼을 클릭합니다.
 
 ![service-account-delete-modal2](/ko/docs/guides/asset-inventory/service-account-img/service-account-delete-modal2.png)
