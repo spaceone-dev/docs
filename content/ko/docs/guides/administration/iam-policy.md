@@ -4,7 +4,7 @@ linkTitle: "[IAM] 정책"
 weight: 3
 date: 2022-06-07
 description: >
-    description
+    **정책**은 실행 가능한 API 들의 권한으로, 사용자들에게 부여할 [역할](/ko/docs/guides/administration/iam-role)을 생성할 때 사용합니다.
 ---
 
 ## 정책이란?

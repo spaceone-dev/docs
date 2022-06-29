@@ -4,7 +4,7 @@ linkTitle: "[IAM] 역할"
 weight: 2
 date: 2022-06-07
 description: >
-    역할은 권한에 대한 범위를 정의한 단위입니다.
+    **역할**은 권한에 대한 범위를 정의한 단위입니다.
 ---
 
 관리자가 원하는 역할을 생성하여 해당 역할을 수행할 [사용자](/ko/docs/guides/administration/iam-user/)들에게 할당할 수 있습니다.
