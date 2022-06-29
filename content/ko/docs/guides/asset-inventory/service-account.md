@@ -9,7 +9,7 @@ description: >
 
 ## 서비스 계정 추가하기
 
-(Getting Started > Service Account Setup 링크)
+[서비스 계정 설정](/ko/docs/guides/getting-started/service-account-setup)
 
 ## 서비스 계정 관리하기
 
@@ -40,15 +40,22 @@ description: >
 ![service-account-single-select](/ko/docs/guides/asset-inventory/service-account-img/service-account-single-select.png)
 
 - [상세 정보] 탭에서 다음과 같은 정보를 확인할 수 있습니다.
+<br />
   • 아이디
+<br />
   • 이름
+<br />
   • 프로젝트
+<br />
   • 생성날짜
-- [태그 탭] 에서 태그에 대해 조회, 편집 그리고 추가가 가능합니다.
+<br />
+- [태그] 탭에서 태그에 대해 조회, 편집 그리고 추가가 가능합니다.
 - [암호화 키] 탭에서 키를 조회 및 검색이 가능합니다.
 - [연관된 멤버] 탭에서 해당 서비스계정에 대해 조회 및 검색이 가능합니다.
+<br />
   • 연결되어 있는 프로젝트의 멤버 중 Project Admin 권한을 가진 사람이 연관된 멤버로 배정됩니다.
-  • 자세한 내용은 (Member 링크) 에서 확인 가능합니다.
+<br />
+  • 자세한 내용은 [멤버](/ko/docs/guides/project/member)에서 확인 가능합니다.
 
 
 삭제하고자 하는 서비스 계정을 선택한 뒤, 작업 메뉴에서 [삭제] 를 클릭합니다.
