@@ -57,7 +57,7 @@ description: >
 
 웹훅은 프로젝트별로 생성이 가능하며, 프로젝트 상세 페이지에서 생성할 수 있습니다.
 
-아직 프로젝트가 생성되어있지 않다면, [프로젝트 생성하기](/ko/docs/guides/getting-started/project-setup/#steps)를 참고해주십시오.
+아직 프로젝트가 생성되어있지 않다면, [프로젝트 생성하기](/ko/docs/guides/project/project/#프로젝트-생성하기)를 참고해주십시오.
 
 ### Steps
 
