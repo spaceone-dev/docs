@@ -13,7 +13,7 @@ description: >
 
 대시보드의 최상단에서는 얼럿을 상태별로 볼 수 있습니다.
 
-얼럿 속성에대한 자세한 정보는 [여기](링크)를 참고하십시오.
+얼럿 속성에 대한 자세한 정보는 [여기](링크)를 참고하십시오.
 
 ![view-alert-by-status](/ko/docs/guides/alert-manager/dashboard-img/view-alert-by-status.png)
 

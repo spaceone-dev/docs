@@ -14,7 +14,7 @@ description: >
 
 ## 웹훅 생성하기
 
-외부 모니터링 서비스로부터 발생하는 로그를 수신하는 웹훅을 생성해야 합니다.
+외부 모니터링 서비스로부터 발생하는 로그를 수신하기 위해서는 웹훅을 생성해야 합니다.
 
 웹훅은 프로젝트별로 생성이 가능하며, 프로젝트 상세 페이지에서 생성할 수 있습니다.
 
@@ -77,7 +77,7 @@ description: >
 
 ![disable-webhook-1](/ko/docs/guides/alert-manager/webhook-img/disable-webhook-1.png)
 
-(2) [웹훅비 활성화] 모달에서 내용을 확인하고 [확인] 버튼을 눌러 비활성화합니다.
+(2) [웹훅 비활성화] 모달에서 내용을 확인하고 [확인] 버튼을 눌러 비활성화합니다.
 
 ![disable-webhook-2](/ko/docs/guides/alert-manager/webhook-img/disable-webhook-2.png)
 
@@ -94,9 +94,7 @@ description: >
 ![update-webhook-name-2](/ko/docs/guides/alert-manager/webhook-img/update-webhook-name-2.png)
 
 ### 웹훅 삭제하기
-
-웹훅은 삭제 시 복구할 수 없습니다. 신중히 확인하고 제거해 주십시오.
-
+    
 (1) 목록에서 삭제할 웹훅을 선택하고, [작업] 드롭다운에서 [삭제] 메뉴를 선택합니다.
 
 ![delete-webhook-1](/ko/docs/guides/alert-manager/webhook-img/delete-webhook-1.png)
@@ -105,4 +103,4 @@ description: >
 
 ![delete-webhook-2](/ko/docs/guides/alert-manager/webhook-img/delete-webhook-2.png)
 
-다시 한번 신중히 확인 후, 정말로 삭제를 원한다면 [삭제] 버튼을 눌러 완료합니다.
+(3) [삭제] 버튼을 눌러 삭제를 완료합니다.

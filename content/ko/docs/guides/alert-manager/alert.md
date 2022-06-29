@@ -59,9 +59,9 @@ description: >
 
 (2-1) 얼럿 제목을 입력하고 [긴급도](/ko/docs/guides/alert-manager/alert/#긴급도)를 선택합니다.
 
-(2-2) 다음으로 얼럿이 어떤 프로젝트에 대하여 발생한 것인지 지정해줍니다.
+(2-2) 얼럿을 어떤 프로젝트에 대하여 발생시킬 것인지 지정해줍니다.
 
-(2-3) 필요하다면 얼럿에 대한 추가적인 설명을작성합니다.
+(2-3) 필요하다면 얼럿에 대한 추가적인 설명을 작성합니다.
 
 (3) [확인] 버튼을 클릭하여 얼럿 생성을 완료합니다.
 
@@ -81,7 +81,7 @@ description: >
 
 ### 얼럿 활용하기
 
-클라우드포레의 얼럿을 활용한 여러가지 기능을 간단하게 살펴봅니다.
+클라우드포레의 얼럿을 활용한 여러가지 기능을 간단하게 살펴봅시다.
 
 - [알림 채널](/ko/docs/guides/alert-manager/notification): 얼럿을 어떤 사용자에게 어떻게, 언제 전달할 것인지 등을 설정합니다.
 - [에스컬레이션 정책](/ko/docs/guides/alert-manager/escalation-policy/): 단계별 규칙을 적용하여, 수신된 얼럿을 프로젝트의 멤버들에게 효과적으로 전달합니다.
@@ -95,7 +95,7 @@ description: >
 
 얼럿 페이지에서 속성별로 정렬이 가능한 목록을 조회할 수 있으며, 얼럿의 `상태`, `긴급도`, `프로젝트` 등을 함께 보여줍니다.
 
-### 얼럿 검색
+### 얼럿 검색하기
 
 ![alert-search](/ko/docs/guides/alert-manager/alert-img/alert-search.png)
 
@@ -120,7 +120,7 @@ description: >
 
 `확인` 상태는 담당자가 할당되어 처리중인 상태입니다.
 
-상태 변경과 동시에 선택한 얼럿의 담담자를 본인으로 설정할 수 있으며, [확인] 버튼을 클릭하여 완료합니다.
+상태 변경과 동시에 선택한 얼럿의 담당자를 본인으로 설정할 수 있으며, [확인] 버튼을 클릭하여 완료합니다.
 
 ![update-alert-1-1](/ko/docs/guides/alert-manager/alert-img/update-alert-1-1.png)
 
@@ -171,7 +171,7 @@ description: >
 
 (2) 담당자 변경
 
-(2-1) [담당] 버튼을 클릭합니다.
+(2-1) [할당] 버튼을 클릭합니다.
 
 ![update-assignee-1](/ko/docs/guides/alert-manager/alert-img/update-assignee-1.png)
 
@@ -185,11 +185,11 @@ description: >
 
 (1) [편집] 버튼을 클릭합니다.
 
-![update-desciption-1](/ko/docs/guides/alert-manager/alert-img/update-desciption-1.png)
+![update-description-1](/ko/docs/guides/alert-manager/alert-img/update-description-1.png)
 
 (2) 얼럿 상세설명란에 생성된 폼을 통해 변경사항을 작성하고 [변경사항 저장] 버튼을 클릭하여 설명 수정을 완료합니다.
 
-![update-desciption-2](/ko/docs/guides/alert-manager/alert-img/update-desciption-2.png)
+![update-description-2](/ko/docs/guides/alert-manager/alert-img/update-description-2.png)
 
 ### 프로젝트 변경하기
 
@@ -225,11 +225,11 @@ description: >
 
 얼럿은 [에스컬레이션 정책](/ko/docs/guides/alert-manager/escalation-policy/)을 통해 수신자에게 전파됩니다.
 
-예외적으로 해당 얼럿에 대하여 추가 사용자에게 얼럿의 전파가 필요하다면, [추가 수신인]을 설정하여 전파할 수 있습니다. 
+해당 얼럿에 대하여 추가 사용자에게 얼럿의 전파가 필요하다면, [추가 수신인]을 설정하여 전파할 수 있습니다. 
 
 ![add-additional-responder-1](/ko/docs/guides/alert-manager/alert-img/add-additional-responder-1.png)
 
-검색 창을 클릭하면 수신 가능한 사용자 목록을 조회할 수 있으며, 다중 선택이 가능합니다.
+검색 창을 클릭하여 수신 가능한 사용자 목록을 조회 및 검색할 수 있으며, 다중 선택이 가능합니다.
 
 ![add-additional-responder-2](/ko/docs/guides/alert-manager/alert-img/add-additional-responder-2.png)
 
@@ -241,23 +241,23 @@ description: >
 
 ### 발생한 이벤트 살펴보기
 
-같은 이벤트에 대해 각각 얼럿을 생성하지 않습니다. 한 얼럿에서 발생한 이벤트들을 로깅하여 히스토리를 보여주고 있습니다.
+한 얼럿에서 발생한 이벤트들을 로깅하여 히스토리를 볼 수 있습니다.
 
 ![view-pushed-event](/ko/docs/guides/alert-manager/alert-img/view-pushed-event.png)
 
-이벤트 목록 중 하나를 클릭하면, 이벤트의 상세 정보를 조회하실 수 있습니다.
+이벤트 목록 중 하나를 클릭하면, 이벤트의 상세 정보를 조회할 수 있습니다.
 
 ![view-pushed-event-detail](/ko/docs/guides/alert-manager/alert-img/view-pushed-event-detail.png)
 
 ### 알림 정책 설정하기
 
-프로젝트에 발생한 얼럿의 긴급도가 `긴급` 인경우에만 얼럿이 발생하도록 설정할 수 있습니다.
+프로젝트에 발생한 얼럿의 긴급도가 `긴급` 인 경우에만 얼럿이 발생하도록 설정할 수 있습니다.
 
 (1) 프로젝트 상세 페이지에 [얼럿] 탭 내부에서, [설정] 탭으로 이동합니다.
 
 ![notification-policy-1](/ko/docs/guides/alert-manager/alert-img/notification-policy-1,2.png)
 
-(2) 알림 정책 영역의 [편집] 버튼을 클릭합니다.
+(2) 알림 정책 영역의 [편집] 아이콘 버튼을 클릭합니다.
 
 ![notification-policy-2](/ko/docs/guides/alert-manager/alert-img/notification-policy-1,2.png)
 
@@ -275,7 +275,7 @@ description: >
 
 ![auto-recovery-setting](/ko/docs/guides/alert-manager/alert-img/auto-recovery-setting.png)
 
-자동 복구가 설정된 프로젝트의 얼럿이 추가 이벤트 수신할 때, 해당 이벤트의 event_type의 값이 `RECOVERY` 인경우 자동으로 얼럿의 상태가 `완료` 로 전환됩니다.
+자동 복구가 설정된 프로젝트의 얼럿이 추가 이벤트 수신할 때, 해당 이벤트의 event_type의 값이 `RECOVERY` 인 경우 자동으로 얼럿의 상태가 `완료` 로 전환됩니다.
 
 {{< /alert >}}
 
@@ -285,7 +285,7 @@ description: >
 
 ![auto-recovery-1](/ko/docs/guides/alert-manager/alert-img/auto-recovery-1,2.png)
 
-(2) 자동 복구 영역의 [편집] 버튼을 클릭합니다.
+(2) 자동 복구 영역의 [편집] 아이콘 버튼을 클릭합니다.
 
 ![auto-recovery-2](/ko/docs/guides/alert-manager/alert-img/auto-recovery-1,2.png)
 

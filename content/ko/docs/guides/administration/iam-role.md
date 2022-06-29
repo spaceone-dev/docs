@@ -35,7 +35,7 @@ description: >
 
 정책(Policy)은 리소스에 연결될 때 해당 권한을 정의하는 개체입니다.
 
-정책에대한 안내는 [정책 문서](/ko/docs/guides/administration/iam-policy)를 참고하십시오.
+정책에 대한 안내는 [정책 문서](/ko/docs/guides/administration/iam-policy)를 참고하십시오.
 
 계속해서 역할에 대해 생성 / 편집 / 삭제 방법을 알아보겠습니다.
 
