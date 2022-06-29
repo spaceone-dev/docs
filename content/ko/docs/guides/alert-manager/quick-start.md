@@ -149,7 +149,7 @@ description: >
 ![notification-step-3-3](/ko/docs/guides/alert-manager/quick-start-img/notification-step-3-3.png)
 
 {{< alert title="" >}}
-각 플러그인의 자세한 연동 가이드는 이곳을 확인하십시오.
+각 플러그인의 자세한 연동 가이드는 [이곳](/ko/docs/guides/plugins/alert-manager-notification/)을 확인하십시오.
 {{< /alert >}}
 
 (4) [저장] 버튼을 클릭해 알림 채널 생성을 완료합니다.

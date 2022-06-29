@@ -13,15 +13,15 @@ description: >
 
 대시보드의 최상단에서는 얼럿을 상태별로 볼 수 있습니다.
 
-얼럿 속성에 대한 자세한 정보는 [여기](링크)를 참고하십시오.
+얼럿 상태에 대한 자세한 정보는 [여기](/ko/docs/guides/alert-manager/alert/)를 참고하십시오.
 
 ![view-alert-by-status](/ko/docs/guides/alert-manager/dashboard-img/view-alert-by-status.png)
 
-얼럿 항목을 클릭하면 [얼럿 상세 페이지](링크)로 이동하여 상세 정보를 확인하거나 세부 설정을 할 수 있습니다.
+얼럿 항목을 클릭하면 [얼럿 상세 페이지](/ko/docs/guides/alert-manager/alert/#얼럿-살펴보기)로 이동하여 상세 정보를 확인하거나 세부 설정을 할 수 있습니다.
 
 ## 얼럿 히스토리
 
-프로젝트(프로젝트 가이드 링크)에서 발생한 얼럿 히스토리를 보여줍니다. 
+[프로젝트](/ko/docs/guides/project/project/)에서 발생한 얼럿 히스토리를 보여줍니다. 
 
 ![alert-history-1](/ko/docs/guides/alert-manager/dashboard-img/alert-history-1.png)
 

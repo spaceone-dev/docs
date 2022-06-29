@@ -37,8 +37,6 @@ description: >
 
 정책에 대한 안내는 [정책 문서](/ko/docs/guides/administration/iam-policy)를 참고하십시오.
 
-계속해서 역할에 대해 생성 / 편집 / 삭제 방법을 알아보겠습니다.
-
 ## 역할 생성하기
 
 {{< alert title="" >}}
@@ -70,7 +68,7 @@ description: >
 ![role-create-page-policy-connect](/ko/docs/guides/administration/iam-role-img/role-create-page-policy-connect.png)
 
 
-정책(Policy)관련 자세한 설명은 여기를 참고해 주십시오.
+정책(Policy)연결 관련 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role/#api-정책-연결)를 참고해 주십시오.
 
 (6) [생성] 버튼을 클릭하여 역할 생성을 완료합니다.
 
@@ -106,28 +104,33 @@ description: >
 
 ![role-edit-base-info](/ko/docs/guides/administration/iam-role-img/role-edit-base-info.png)
 
+{{< alert title="주의" >}}
+
 기본정보의 [역할 타입]은 생성이후 수정이 불가능한 항목입니다.
+
+{{< /alert >}}
+
 
 ## 역할 삭제하기
 
 ### Steps
 
-(1) 삭제하고자 하는 역할 페이지에 진입합니다.
+(1) 역할 페이지에 진입합니다.
 
 ![role-delete-menu](/ko/docs/guides/administration/iam-role-img/role-delete-menu.png)
 
 삭제 시에 여러 역할을 한 번에 제거할 수 있습니다.
 
-(2) [확인] 버튼을 클릭하여 삭제를 완료합니다.
-
-이전 삭제 목록에서 선택한 역할들을 확인할 수 있습니다.
+(2) [삭제] 버튼을 클릭하여 제거 대상인 역할 목록을 검토합니다.
 
 ![role-delete-modal](/ko/docs/guides/administration/iam-role-img/role-delete-modal.png)
 
 {{< alert title="주의" >}}
-삭제 대상인 역할이 부여되어있는 사용자가 존재하면 삭제할 수 없습니다.
+사용자에게 할당되어있는 역할은 제거할 수 없습니다.
 
 ![role-cannot-delete-modal](/ko/docs/guides/administration/iam-role-img/role-cannot-delete-modal.png)
 
 삭제가 불가능한 역할이 포함되어있는 경우, 역할과 해당 역할이 할당된 사용자를 함께 보여줍니다.
 {{< /alert >}}
+
+(3) [확인] 버튼을 클릭하여 삭제를 완료합니다.
