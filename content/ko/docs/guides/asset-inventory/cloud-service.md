@@ -11,7 +11,7 @@ description: >
 
 클라우드 서비스 페이지에서는 **프로바이더**별 클라우드 서비스 이용 현황을 보여줍니다.
 
-[**고급 검색**](/ko/docs/guides/advanced/search)과 필터 설정을 통해 세밀한 조건으로 목록을 필터링할 수 있습니다.
+[고급 검색](/ko/docs/guides/advanced/search)과 필터 설정을 통해 세밀한 조건으로 목록을 필터링할 수 있습니다.
 
 ### 프로바이더 선택
 
@@ -31,17 +31,16 @@ description: >
 
 ![cloud-service-filter-modal](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-service-filter-modal.png)
 
----
 
 ## 클라우드 서비스 살펴보기
 
-클라우드 서비스 페이지에서 카드를 클릭하면, 해당하는 서비스에 대한 상세 정보를 확인할 수 있는 클라우드 서비스 상세 페이지로 이동합니다.
+클라우드 서비스 상세 페이지에서 특정 클라우드 서비스의 상세 정보를 확인할 수 있습니다.
+
+클라우드 서비스 페이지에서 카드를 클릭하면 상세 페이지로 이동합니다.
 
 ![cloud-service-select](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-service-select.png)
 
-클라우드 서비스 상세 페이지에서는 왼쪽의 클라우드 서비스 목록에서 선택된 클라우드 서비스에 대한 상세 정보를 확인할 수 있습니다.
-
-클라우드 서비스 목록에서 다른 클라우드 서비스를 선택하여, 해당 클라우드 서비스에 대한 상세 정보를 빠르게 확인할 수 있습니다.
+왼쪽의 클라우드 서비스 목록에서 선택된 클라우드 서비스에 대한 상세 정보를 확인할 수 있습니다.
 
 ![cloud-service-list-lnb](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-service-list-lnb.png)
 
@@ -51,7 +50,7 @@ description: >
 
 **고급 검색**에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search)를 참고하세요.
 
-[엑셀] 아이콘 버튼을 클릭하여 리소스 목록을 셀를 하거나, [설정] 아이콘 버튼을 클릭하여 [**테이블 필드 개인화**](/ko/docs/guides/advanced/custom-table)를 할 수 있습니다.
+[엑셀] 아이콘 버튼을 클릭하여 리소스 목록을 [엑셀 파일로 내보내기](/ko/docs/guides/advanced/excel-export) 하거나, [설정] 아이콘 버튼을 클릭하여 [테이블 필드 개인화](/ko/docs/guides/advanced/custom-table)를 할 수 있습니다.
 
 ![cloud-sevice-detail-full-page](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-sevice-detail-full-page.png)
 
@@ -118,22 +117,15 @@ description: >
 
 ![cloud-resource-tag-tab](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-resource-tag-tab.png)
 
-(2) [태그] 페이지에서 [태그 추가] 버튼을 클릭합니다.
-
-(3) 추가하고자 하는 값을 `키: 값` 형태로 입력합니다.
+(2) 태그 페이지에서 `키: 값` 형태로 태그를 입력 후 [저장] 버튼을 클릭하여 완료합니다.
 
 ![cloud-resource-tag-add](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-resource-tag-add.png)
-
-(3-1) 태그를 더 추가하고자 한다면, 원하는 개수만큼 [태그 추가] 버튼을 클릭합니다.
-
-(4) [저장] 버튼을 클릭하여 태그 추가를 완료합니다.
 
 ### 클라우드 리소스에 연관된 멤버 확인하기
 
 [연관된 멤버] 탭에서는 아래의 조건에 해당되는 사용자 정보를 확인할 수 있습니다.
 
-- 해당 클라우드 리소스에 접근 권한을 가진 사용자
-- `User` 타입의 역할(Role)(링크)을 가진 사용자
+- [프로젝트 멤버](/ko/docs/guides/project/member)로써 해당 클라우드 리소스에 접근 권한을 가진 사용자
 
 ![cloud-resource-member-tab](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-resource-member-tab.png)
 
@@ -157,4 +149,4 @@ description: >
 
 ![cloud-resource-multi-monitoring](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-resource-multi-monitoring.png)
 
-메트릭 정보는 **메트릭 컬렉터**에 의해 수집되며, 자세한 내용은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고하세요.
+메트릭 정보는 **모니터링 플러그인**에 의해 수집되며, 자세한 내용은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고하세요.

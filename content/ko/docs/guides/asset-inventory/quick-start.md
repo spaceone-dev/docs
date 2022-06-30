@@ -7,7 +7,7 @@ description: >
     **에셋 인벤토리** 서비스를 빠르게 사용하기 위한 과정을 소개합니다.
 ---
 
-## 1. 클라우드 서비스 계정 추가
+## 서비스 계정 생성하기
 [에셋 인벤토리 > 서비스 계정] 페이지에서 클라우드 서비스 계정을 추가합니다.
 
 (1) 추가할 클라우드 서비스를 선택합니다.
@@ -32,7 +32,7 @@ description: >
 
 ![service-account-add-key](/ko/docs/guides/asset-inventory/quick-start-img/service-account-add-key.png)
 
-## 2. 컬렉터 생성
+## 컬렉터 생성하기
 [에셋 인벤토리 > 컬렉터] 페이지에서 리소스를 수집할 컬렉터를 생성합니다.
 
 (1) [생성] 버튼을 클릭합니다.
@@ -63,7 +63,7 @@ description: >
 ![collector-schedule-modal](/ko/docs/guides/asset-inventory/quick-start-img/collector-schedule-modal.png)
 
 
-## 3. 수집된 리소스 조회
-[에셋 인벤토리 > 클라우드 서비스]에서 수집된 리소스를 조회합니다.
+## 수집된 리소스 확인하기
+[에셋 인벤토리 > 클라우드 서비스]에서 수집된 리소스를 조회할 수 있습니다.
 
 ![collector-resource-inquiry](/ko/docs/guides/asset-inventory/quick-start-img/collector-resource-inquiry.png)

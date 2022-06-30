@@ -4,18 +4,16 @@ linkTitle: "서버"
 weight: 3
 date: 2022-06-07
 description: >
-    [**컬렉터**](/ko/docs/guides/asset-inventory/collector)를 통해 수집되는 여러 [**클라우드 서비스**](/ko/docs/guides/asset-inventory/cloud-service) 리소스들 중 서버 리소스를 확인할 수 있습니다.
+    [컬렉터](/ko/docs/guides/asset-inventory/collector)를 통해 수집되는 여러 클라우드 서비스의 리소스들 중 서버 리소스를 확인할 수 있습니다.
 ---
-
-[에셋 인벤토리 > 서버] 메뉴에서 확인할 수 있습니다.
 
 ## 서버 리소스 목록 조회하기
 
-검색어를 입력하여 조건에 부합하는 서버 리소스 목록을 확인할 수 있습니다.
+[에셋 인벤토리 > 서버] 메뉴를 통해 서버 페이지에 진입하여 서버 리소스 목록을 확인할 수 있습니다.
 
-**고급 검색**에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search)를 참고하세요.
+[고급 검색](/ko/docs/guides/advanced/search)을 통해 세밀한 조건으로 목록을 필터링할 수 있습니다.
 
-[엑셀] 아이콘 버튼을 클릭하여 리소스 목록을 셀를 하거나, [설정] 아이콘 버튼을 클릭하여 [**테이블 필드 개인화**](/ko/docs/guides/advanced/custom-table)를 할 수 있습니다.
+[엑셀] 아이콘 버튼을 클릭하여 리소스 목록을 [엑셀 파일로 내보내기](/ko/docs/guides/advanced/excel-export) 하거나, [설정] 아이콘 버튼을 클릭하여 [테이블 필드 개인화](/ko/docs/guides/advanced/custom-table)를 할 수 있습니다.
 
 ![server-full-page](/ko/docs/guides/asset-inventory/server-img/server-full-page.png)
 
