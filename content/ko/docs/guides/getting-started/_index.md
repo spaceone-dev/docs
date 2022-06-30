@@ -18,7 +18,7 @@ description: >
 
 ## 사용자 설정
 
-클라우드포레의 사용자는 내부 사용자, 외부 사용자, API 사용자, 이렇게 세 가지 타입으로 분류됩니다.
+클라우드포레의 사용자는 **내부 사용자**, **외부 사용자**, **API 사용자**, 이렇게 세 가지 타입으로 분류됩니다.
 
 여기에서는 내부 사용자를 추가하는 방법만을 소개하며, 외부 사용자와 API 사용자 추가 방식은 [[IAM] 사용자 가이드](/ko/docs/guides/administration/iam-user)에서 확인할 수 있습니다.
 
@@ -39,7 +39,7 @@ description: >
 ![user-create-modal-local-filed](/ko/docs/guides/getting-started/user-setup-img/user-create-modal-local-filed.png)
 
 {{<alert title="어드민 권한 할당">}}
-사용자에게 어드민 권한을 부여하려면, [어드민 권한 할당] 드롭다운에서 선택하여 할당할 수 있습니다.
+사용자에게 어드민 권한을 부여하려면, [어드민 역할(Role) 할당] 드롭다운에서 선택하여 할당할 수 있습니다.
 
 만약 아무것도 선택하지 않으면, 해당 사용자에게는 아무런 권한이 부여되지 않습니다.
 
@@ -61,7 +61,7 @@ description: >
 
 ![project-group-create-button](/ko/docs/guides/getting-started/project-setup-img/project-group-create-button.png)
 
-(2) [프로젝트 그룹 생성] 모달에서 프로젝트 그룹 이름을 입력 후, [확인] 버튼을 클릭하여 프로젝트 그룹을 생성합니다.
+(2) [프로젝트 그룹 생성] 모달에서 프로젝트 그룹 이름을 입력한 후, [확인] 버튼을 클릭하여 프로젝트 그룹을 생성합니다.
 
 ![project-group-create-modal](/ko/docs/guides/getting-started/project-setup-img/project-group-create-modal.png)
 
@@ -69,13 +69,11 @@ description: >
 
 프로젝트 그룹을 생성한 뒤, 그 하위에 속하게 될 프로젝트를 생성합니다.
 
-(1) 왼쪽의 프로젝트 그룹 목록에서, 앞서 생성한 프로젝트 그룹을 선택합니다.
+(1) 왼쪽의 프로젝트 그룹 목록에서 앞서 생성한 프로젝트 그룹을 선택한 뒤, 오른쪽 상단의 [프로젝트 생성] 버튼을 클릭합니다.
 
 ![project-group-select](/ko/docs/guides/getting-started/project-setup-img/project-group-select.png)
 
-(2) 오른쪽 상단의 [프로젝트 생성] 버튼을 클릭합니다.
-
-(3) [프로젝트 생성] 모달에서 프로젝트 이름을 입력한 후, [확인] 버튼을 클릭하여 프로젝트를 생성합니다.
+(2) [프로젝트 생성] 모달에서 프로젝트 이름을 입력한 후, [확인] 버튼을 클릭하여 프로젝트를 생성합니다.
 
 ![project-create-modal](/ko/docs/guides/getting-started/project-setup-img/project-create-modal.png)
 
@@ -85,7 +83,8 @@ description: >
 프로젝트 그룹에 사용자를 초대하여 프로젝트 그룹의 [**멤버**](/ko/docs/guides/project/member)로 등록할 수 있습니다.
 
 {{<alert title="프로젝트 그룹 멤버 역할(Role)">}}
-초대된 멤버들은 해당 프로젝트 그룹에 대하여 반드시 하나의 역할(Role)을 가지게 되며, 그 하위에 있는 모든 프로젝트 그룹과 프로젝트에 대하여서도 동일한 역할(Role)이 적용됩니다.
+초대된 멤버들은 해당 프로젝트 그룹에 대하여 반드시 하나의 역할(Role)을 가지게 됩니다.
+이 역할(Role)은 해당 프로젝트 그룹의 하위에 있는 모든 프로젝트 그룹 및 프로젝트에 대해서도 동일하게 적용됩니다.
 
 상세한 내용은 [여기](/ko/docs/guides/administration/iam-role)를 참고하세요.
 {{</alert>}}
@@ -113,7 +112,8 @@ description: >
 ![project-member-invite-modal-role-added](/ko/docs/guides/getting-started/project-setup-img/project-member-invite-modal-role-added.png)
 
 {{<alert title="멤버 역할(Role)">}}
-프로젝트의 멤버에게 부여할 수 있는 역할(Role)은 `User` 타입의 [역할(Role)](/ko/docs/guides/administration/iam-role)만 가능합니다.
+프로젝트 멤버에게는 `User` 타입의 역할(Role)만 부여할 수 있습니다.
+역할(Role)의 타입에 대한 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role/#역할role-타입)를 참고하세요.
 {{</alert>}}
 
 (3-3) 초대할 멤버들에 대한 라벨을 입력 후, 엔터 키를 눌러 추가합니다.
@@ -124,7 +124,7 @@ description: >
 
 ## 서비스 계정 설정
 
-서비스 계정이란 리소스를 수집하기 위해 필요한 클라우드 서비스 계정을 의미합니다.
+서비스 계정이란 클라우드 서비스의 리소스를 수집하기 위해 필요한 **클라우드 서비스 계정**을 의미합니다.
 
 ### 클라우드 서비스 계정 추가하기
 
@@ -154,8 +154,7 @@ description: >
 
 
 {{<alert title="클라우드 서비스 별 계정 추가">}}
-복수 개의 클라우드 서비스 계정을 추가할 수 있습니다.
-클라우드 서비스 별로 필요한 요구사항이 다를 수 있으며, 자세한 사항은 아래 링크를 참고 바랍니다.
+클라우드 서비스 별로 필요한 계정 정보가 다를 수 있습니다. 자세한 사항은 아래 링크를 참고 바랍니다.
 
 • AWS (링크)
 

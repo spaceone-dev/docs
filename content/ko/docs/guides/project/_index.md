@@ -10,5 +10,5 @@ description: >
     클라우드포레의 프로젝트 페이지에서 [**프로젝트 그룹**](/ko/docs/guides/project/project-group)과 [**프로젝트**](/ko/docs/guides/project/project)를 만들고, [**멤버**](/ko/docs/guides/project/member)를 초대할 수 있습니다.
     <br>
     <br>
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72e729ed-e630-4063-883c-31a9b57716de/Untitled.png)
+    ![project-full-page](/ko/docs/guides/project/project-img/project-click-all-project.png)
 ---
