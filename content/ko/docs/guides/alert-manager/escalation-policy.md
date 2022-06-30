@@ -5,7 +5,8 @@ weight: 8
 date: 2022-06-07
 description: >
     에스컬레이션 정책을 통해 얼럿에 단계별 규칙을 적용하여, 수신된 얼럿을 프로젝트의 멤버들에게 효과적으로 전달합니다.
-    <br/>
+
+
     각 규칙에는 설정된 레벨이 존재하고, 레벨마다 해당하는 알림 채널에 얼럿이 전파됩니다.
 
 ---
@@ -69,19 +70,19 @@ description: >
 
 
 
-## 에스컬레이션 편집 및 삭제
+## 에스컬레이션 편집 및 삭제하기
 
 에스컬레이션 정책 목록에서 대상을 선택 후 [작업] 드롭다운에서 [편집] 및 [삭제]가 가능합니다.
 
 ![escalation-policy-update-delete](/ko/docs/guides/alert-manager/escalation-policy-img/escalation-policy-update-delete.png)
 
-### 편집
+### 편집하기
 
 편집의 경우 [생성] 버튼 클릭 시 생성되는 모달과 같은 형태이며, 범위를 제외한 모든 항목을 편집할 수 있습니다.
 
 ![update-escalation-policy](/ko/docs/guides/alert-manager/escalation-policy-img/update-escalation-policy.png)
 
-### 삭제
+### 삭제하기
 
 삭제의 경우 아래와 같은 확인 모달을 통해 삭제를 진행할 수 있습니다.
 
