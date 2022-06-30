@@ -31,13 +31,14 @@ description: >
 
 얼럿 [수동 생성](/ko/docs/guides/alert-manager/alert/#얼럿-생성하기)의 경우에는 `높음` 과 `낮음` 두 가지로 생성되지만, [웹훅 연동을 통해 자동으로 생성](/ko/docs/guides/alert-manager/alert/#얼럿-생성하기)되는 경우에는 **심각도(Severity)** 에 따라 긴급도(Urgency)가 측정됩니다.
 
-{{< alert title="심각도" >}}
+{{<alert title="심각도">}}
 **심각도**는 일반적인 외부 모니터링 훅으로부터 받아오는 이벤트의 위험 강도를 나타냅니다.
 `CRITICAL`, `ERROR`, `WARNING`, `INFO`, `NOT_AVAILABLE` 다섯 가지의 심각도가 있으며, 클라우드포레는 이를 얼럿으로 생성 시 아래와 같은 기준으로 긴급도를 설정합니다.
 
- `높음` : `CRITICAL`, `ERROR`, `NOT_AVAILABLE`
- `낮음` : `WARNING`, `INFO`
-{{< /alert >}}
+• `높음` : `CRITICAL`, `ERROR`, `NOT_AVAILABLE`
+
+• `낮음` : `WARNING`, `INFO`
+{{</alert>}}
 
 ## 얼럿 생성하기
 
