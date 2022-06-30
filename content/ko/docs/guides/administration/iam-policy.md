@@ -17,6 +17,10 @@ description: >
 | 생성, 수정, 삭제 | X (불가능)                                                                                                                | O (가능)                                                          |
 | 읽기         | O (가능)                                                                                                                 | O (가능)                                                          |
 
+{{<alert>}}
+Repository 서비스란 Marketplace 에 연결하기 위한 공유 저장소 서비스를 말합니다.
+{{</alert>}}
+
 자세한 내용은 [Understanding Policy](/ko/docs/concepts/identity/rbac/understanding-policy)를 참고해주세요.
 
 Custom 정책만 생성 / 수정 / 삭제가 가능하니, 해당 기능을 이용할 때 타입을 확인 후 진행해주시길 바랍니다.
@@ -50,8 +54,6 @@ Custom 정책만 생성 / 수정 / 삭제가 가능하니, 해당 기능을 이�
 | identity.User.list      | User 리소스에 대한 list 권한       |
 
 서비스와 리소스 등에 대한 자세한 정보는 (여기)를 참고해주세요.
-
-{image4}
 
 ## 정책 편집하기
 
