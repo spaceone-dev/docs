@@ -70,7 +70,7 @@ description: >
 {{<alert>}}
 **웹훅 생성**은 클라우드포레 콘솔에서 진행되나, **연동 설정**은 외부 모니터링 서비스를 제공하는 클라우드 서비스의 콘솔에서 직접 설정해야 합니다.
 
-외부 모니터링 서비스를 연동하는 방법은 [여기](/ko/docs/guides/plugins/alert-manager-webhook/)를 확인해주세요.
+외부 모니터링 서비스를 연동하는 방법은 [여기](/ko/docs/guides/plugins/alert-manager-webhook/)를 참고 하십시오.
 {{</alert>}}
 
 <br>

@@ -43,7 +43,7 @@ AWS Data-Transfer와 AWS CloudFront의 데이터 전송 및 비용 발생 현황
 {{<alert title="Public 옵션이 보이지 않는 경우">}}
 [비용 관리 > 대시보드] 페이지에 대한 `MANAGE` 권한이 있을 경우 Public과 My Dashboard를 모두 생성할 수 있습니다. 하지만 사용자가 `VIEW` 권한만을 가지고 있을 경우 My Dashboard만 생성할 수 있습니다.
 
-**접근 권한**을 설정하는 방법은 [여기](/ko/docs/guides/administration/iam-role/#역할-생성하기)를 참고하세요.
+**접근 권한**을 설정하는 방법은 [여기](/ko/docs/guides/administration/iam-role/#역할-생성하기)를 참고 하십시오.
 {{</alert>}}
 
 (4) [생성] 버튼을 클릭합니다.
@@ -107,7 +107,7 @@ AWS Data-Transfer와 AWS CloudFront의 데이터 전송 및 비용 발생 현황
 {{<alert title="비용 분석 쿼리">}}
 커스텀 위젯을 생성하기 위해서는 **비용 분석 쿼리**가 필요합니다.
 비용 분석 쿼리는 [비용 관리 > 비용 분석] 페이지에서 생성할 수 있습니다.
-자세한 방법은 [여기](/ko/docs/guides/cost-explorer/cost-analysis/#비용-분석-쿼리)를 참고하세요.
+자세한 방법은 [여기](/ko/docs/guides/cost-explorer/cost-analysis/#비용-분석-쿼리)를 참고 하십시오.
 {{</alert>}}
 
 (1) 오른쪽의 [위젯 추가] 버튼을 클릭합니다.

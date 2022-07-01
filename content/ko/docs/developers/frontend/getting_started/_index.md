@@ -36,7 +36,7 @@ cd console
 npm install --no-save
 ```
 이후 개발환경을 위한 config 파일을 `public/config/development.json` 작성합니다.
-(config 파일 작성은 [여기]()를 참고해주세요)
+(config 파일 작성은 [여기]()를 참고 하십시오)
 
 <br/>
 

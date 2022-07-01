@@ -26,7 +26,7 @@ description: >
 ![notification-step-1](/ko/docs/guides/alert-manager/notification-img/notification-step-1.png)
 
 {{< alert title="" >}}
-**CloudForet User 채널**에 대한 자세한 설명은 [여기](/ko/docs/guides/alert-manager/notification/#클라우드포레-사용자-채널)를 확인하십시오.
+**CloudForet User 채널**에 대한 자세한 설명은 [여기](/ko/docs/guides/alert-manager/notification/#클라우드포레-사용자-채널)를 참고 하십시오.
 {{< /alert >}}
 
 
@@ -35,7 +35,7 @@ description: >
 (2-1) 필요한 채널 이름과 알림 레벨 등 생성하려는 알림 채널에 대한 기본적인 정보들을 입력합니다. [채널 이름]과 [알림 레벨]이 기본 설정 필드이며, 이후 나머지는 채널별로 입력받는 정보가 다릅니다.
 
 {{<alert>}}
-각 **알림 플러그인**에 대한 자세한 연동 가이드는 [여기](/ko/docs/guides/plugins/alert-manager-notification/)를 확인하십시오.
+각 **알림 플러그인**에 대한 자세한 연동 가이드는 [여기](/ko/docs/guides/plugins/alert-manager-notification/)를 참고 하십시오.
 {{</alert>}}
 
 ![notification-step-2-1](/ko/docs/guides/alert-manager/notification-img/notification-step-2-1.png)

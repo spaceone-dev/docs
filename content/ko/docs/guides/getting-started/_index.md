@@ -43,7 +43,7 @@ description: >
 
 만약 아무것도 선택하지 않으면, 해당 사용자에게는 아무런 권한이 부여되지 않습니다.
 
-권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)에서 확인할 수 있습니다.
+권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)를 참고 하십시오.
 
 ![user-create-role-assign](/ko/docs/guides/getting-started/user-setup-img/user-create-role-assign.png)
 {{</alert>}}
@@ -86,7 +86,7 @@ description: >
 초대된 멤버들은 해당 프로젝트 그룹에 대하여 반드시 하나의 역할(Role)을 가지게 됩니다.
 이 역할(Role)은 해당 프로젝트 그룹의 하위에 있는 모든 프로젝트 그룹 및 프로젝트에 대해서도 동일하게 적용됩니다.
 
-상세한 내용은 [여기](/ko/docs/guides/administration/iam-role)를 참고하세요.
+상세한 내용은 [여기](/ko/docs/guides/administration/iam-role)를 참고 하십시오.
 {{</alert>}}
 
 (1) 앞에서 생성한 프로젝트 그룹을 왼쪽의 [프로젝트 그룹] 목록에서 선택합니다.
@@ -113,7 +113,7 @@ description: >
 
 {{<alert title="멤버 역할(Role)">}}
 프로젝트 멤버에게는 `User` 타입의 역할(Role)만 부여할 수 있습니다.
-역할(Role)의 타입에 대한 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role/#역할role-타입)를 참고하세요.
+역할(Role)의 타입에 대한 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role/#역할role-타입)를 참고 하십시오.
 {{</alert>}}
 
 (3-3) 초대할 멤버들에 대한 라벨을 입력 후, 엔터 키를 눌러 추가합니다.

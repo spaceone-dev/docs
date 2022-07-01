@@ -82,7 +82,7 @@ description: >
 ![project-group-single-select-from-lnb](/ko/docs/guides/project/project-group-img/project-group-single-select-from-lnb.png)
 
 {{<alert title="프로젝트 목록 조회">}}
-프로젝트 그룹을 선택하면 해당 그룹에 속하는 프로젝트 목록을 확인할 수 있습니다. 자세한 내용은 [여기](/ko/docs/guides/project/project/#프로젝트-목록-조회하기)를 참고하세요.
+프로젝트 그룹을 선택하면 해당 그룹에 속하는 프로젝트 목록을 확인할 수 있습니다. 자세한 내용은 [여기](/ko/docs/guides/project/project/#프로젝트-목록-조회하기)를 참고 하십시오.
 {{</alert>}}
 
 ## 프로젝트 그룹 편집하기
@@ -160,6 +160,6 @@ description: >
 • 선택한 프로젝트 그룹에 속하지 않더라도, 그 하위의 그룹들에 프로젝트가 있는 경우, 프로젝트 그룹이 삭제되지 않습니다.
 <br>
 <br>
-위의 두 가지 경우에는 프로젝트를 먼저 삭제해야 합니다. 프로젝트 삭제 방법은 [여기](/ko/docs/guides/project/project/#프로젝트-삭제하기)를 참고하세요.
+위의 두 가지 경우에는 프로젝트를 먼저 삭제해야 합니다. 프로젝트 삭제 방법은 [여기](/ko/docs/guides/project/project/#프로젝트-삭제하기)를 참고 하십시오.
 
 {{</alert>}}

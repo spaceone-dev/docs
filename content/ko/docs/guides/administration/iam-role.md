@@ -68,7 +68,7 @@ description: >
 ![role-create-page-policy-connect](/ko/docs/guides/administration/iam-role-img/role-create-page-policy-connect.png)
 
 
-정책(Policy)연결 관련 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role/#api-정책-연결)를 참고해 주십시오.
+정책(Policy)연결 관련 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role/#api-정책-연결)를 참고 하십시오.
 
 (6) [생성] 버튼을 클릭하여 역할 생성을 완료합니다.
 
@@ -82,7 +82,7 @@ description: >
 
 ![role-list](/ko/docs/guides/administration/iam-role-img/role-list.png)
 
-검색어를 입력하여 조건에 부합하는 역할 목록을 확인할 수 있습니다. 고급 검색에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고하세요.
+검색어를 입력하여 조건에 부합하는 역할 목록을 확인할 수 있습니다. 고급 검색에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고 하십시오.
 
 ![role-search](/ko/docs/guides/administration/iam-role-img/role-search.png)
 

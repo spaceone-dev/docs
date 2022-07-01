@@ -48,7 +48,7 @@ description: >
 
 검색어를 입력하여 조건에 부합하는 클라우드 리소스 목록을 확인할 수 있습니다.
 
-**고급 검색**에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search)를 참고하세요.
+**고급 검색**에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search)를 참고 하십시오.
 
 [엑셀] 아이콘 버튼을 클릭하여 리소스 목록을 [엑셀 파일로 내보내기](/ko/docs/guides/advanced/excel-export) 하거나, [설정] 아이콘 버튼을 클릭하여 [테이블 필드 개인화](/ko/docs/guides/advanced/custom-table)를 할 수 있습니다.
 
@@ -99,7 +99,7 @@ description: >
 여기에 표시되는 정보는 **기본 탭**과 **추가 정보 탭**으로 나뉩니다.
 
 - **기본 탭**: 클라우드 리소스 상세 정보에 기본적으로 제공되는 것으로, [기본 정보], [원본 데이터] 탭이 이에 해당됩니다.
-- **추가 정보 탭**: 기본 탭을 제외한 모든 탭들은 해당 리소스를 수집한 컬렉터의 플러그인에 의해 결정됩니다. 자세한 설명은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고하세요.
+- **추가 정보 탭**: 기본 탭을 제외한 모든 탭들은 해당 리소스를 수집한 컬렉터의 플러그인에 의해 결정됩니다. 자세한 설명은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고 하십시오.
 
 <br>
 
@@ -149,4 +149,4 @@ description: >
 
 ![cloud-resource-multi-monitoring](/ko/docs/guides/asset-inventory/cloud-service-img/cloud-resource-multi-monitoring.png)
 
-메트릭 정보는 **모니터링 플러그인**에 의해 수집되며, 자세한 내용은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고하세요.
+메트릭 정보는 **모니터링 플러그인**에 의해 수집되며, 자세한 내용은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고 하십시오.

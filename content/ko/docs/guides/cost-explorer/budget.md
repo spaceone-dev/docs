@@ -51,5 +51,5 @@ description: >
 ![budget-alert-01](/ko/docs/guides/cost-explorer/budget-img/budget-alert-01.png)
 
 {{<alert>}}
-알림을 받기 위해서는 **알림 채널**이 있어야 합니다. 알림 채널에 대해서는 [여기](/ko/docs/guides/my-page/notification-channel/)를 참고하세요.
+알림을 받기 위해서는 **알림 채널**이 있어야 합니다. 알림 채널에 대해서는 [여기](/ko/docs/guides/my-page/notification-channel/)를 참고 하십시오.
 {{</alert>}}

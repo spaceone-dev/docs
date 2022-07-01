@@ -31,7 +31,7 @@ description: >
 {{<alert title="외부 모니터링 서비스 연동">}}
 웹훅을 사용하기 위해서는 생성된 웹훅의 URL을 통해 외부 모니터링 서비스와 연결해야 합니다.
 
-외부 모니터링 서비스를 연동하는 방법은 [여기](/ko/docs/guides/plugins/alert-manager-webhook/)를 확인해주세요.
+외부 모니터링 서비스를 연동하는 방법은 [여기](/ko/docs/guides/plugins/alert-manager-webhook/)를 참고 하십시오.
 {{</alert>}}
 
 
@@ -42,7 +42,7 @@ description: >
 ## 웹훅 목록 조회하기
 
 ### 상세 검색
-검색 창에 검색어를 입력하여 조건에 부합하는 웹훅 목록을 확인할 수 있습니다. 고급 검색에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고하세요.
+검색 창에 검색어를 입력하여 조건에 부합하는 웹훅 목록을 확인할 수 있습니다. 고급 검색에 대한 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고 하십시오.
 
 ![webhook-search](/ko/docs/guides/alert-manager/webhook-img/webhook-search.png)
 

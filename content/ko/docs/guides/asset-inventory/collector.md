@@ -18,7 +18,7 @@ description: >
 
 프로바이더 별로 가지고 있는 데이터의 구조와 내용이 상이하므로 컬렉터는 철저히 **컬렉터 플러그인**에 의존하여 리소스들을 수집합니다.
 
-이에 대한 자세한 설명은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고하세요.
+이에 대한 자세한 설명은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고 하십시오.
  
 ### 서비스 계정 
 
@@ -28,7 +28,7 @@ description: >
 
 컬렉터는 기존에 프로바이더 별로 만들어져 있는 서비스 계정을 통해 프로바이더 계정에 접근합니다. 
 
-이에 대한 자세한 설명은 [여기](/ko/docs/guides/asset-inventory/service-account)를 참고하세요.
+이에 대한 자세한 설명은 [여기](/ko/docs/guides/asset-inventory/service-account)를 참고 하십시오.
 
 ## 컬렉터 생성하기
 
@@ -62,7 +62,7 @@ description: >
 
 컬렉터 페이지에서 생성되어 있는 모든 컬렉터 목록을 조회할 수 있습니다.
 
-**고급 검색**을 통해 세밀한 조건으로 목록을 필터링할 수 있습니다. 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고하세요.
+**고급 검색**을 통해 세밀한 조건으로 목록을 필터링할 수 있습니다. 상세 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고 하십시오.
 
 ![collector-list-inquiry](/ko/docs/guides/asset-inventory/collector-img/collector-list-inquiry.png)
 
@@ -213,7 +213,7 @@ description: >
 
 반면, 오히려 자주 데이터를 수집해야 하는 플러그인도 있습니다. 이 경우에는 플러그인이 지원하는 조건에 따라 반복 주기 설정 양식이 화면에 표시됩니다.
 
-플러그인에 대한 자세한 설명은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고하세요.
+플러그인에 대한 자세한 설명은 [여기](/ko/docs/guides/plugins/asset-inventory-collector)를 참고 하십시오.
 
 {{</alert>}}
 
@@ -259,7 +259,7 @@ description: >
 
 컬렉터 히스토레 페이지 상단의 차트를 통해, 날짜별 데이터 수집 현황을 빠르게 확인할 수 있습니다.
 
-하단의 목록에서는 고급 검색과 상태 필터 조건에 맞는 데이터 수집 목록이 표시됩니다. 고급 검색에 대한 자세한 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고하세요.
+하단의 목록에서는 고급 검색과 상태 필터 조건에 맞는 데이터 수집 목록이 표시됩니다. 고급 검색에 대한 자세한 설명은 [여기](/ko/docs/guides/advanced/search/)를 참고 하십시오.
 
 데이터 수집이 진행중인 항목의 경우, Job Progress 필드의 상태바를 통해 수집 현황을 확인할 수 있습니다.
 

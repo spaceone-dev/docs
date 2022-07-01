@@ -22,5 +22,5 @@ description: >
 ![account-profile-03](/ko/docs/guides/my-page/account-profile-img/account-profile-03.png)
 
 {{<alert>}}
-비밀번호 변경은 내부 사용자일 경우에만 가능합니다. 사용자의 종류에 대해서는 [여기](/ko/docs/guides/administration/iam-user/)를 참고하세요.
+비밀번호 변경은 내부 사용자일 경우에만 가능합니다. 사용자의 종류에 대해서는 [여기](/ko/docs/guides/administration/iam-user/)를 참고 하십시오.
 {{</alert>}}

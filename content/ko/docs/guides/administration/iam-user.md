@@ -12,7 +12,7 @@ description: >
 
 {{<alert>}}
 [관리 > 사용자] 페이지에서 사용자에게 할당할 수 있는 역할은 `Admin` 타입입니다. `User` 타입은 프로젝트의 멤버에게 할당할 수 있습니다.
-프로젝트 멤버에게 역할을 부여하는 방법은 [여기](/ko/docs/guides/project/project-group/#프로젝트-그룹-멤버-초대하기)를 참고하세요.
+프로젝트 멤버에게 역할을 부여하는 방법은 [여기](/ko/docs/guides/project/project-group/#프로젝트-그룹-멤버-초대하기)를 참고 하십시오.
 {{</alert>}}
 
 ## 사용자 추가하기
@@ -38,7 +38,7 @@ description: >
 
 (2-3) 필요 시 [어드민 역할 할당] 메뉴에서 역할을 선택합니다.
 {{<alert>}}
-사용자에게 할당된 역할에 따라, 페이지 접근 권한이나 API 정책이 상이하게 적용됩니다. 역할에 대한 자세한 사항은 [여기](/ko/docs/guides/administration/iam-role)를 참고하세요.
+사용자에게 할당된 역할에 따라, 페이지 접근 권한이나 API 정책이 상이하게 적용됩니다. 역할에 대한 자세한 사항은 [여기](/ko/docs/guides/administration/iam-role)를 참고 하십시오.
 {{</alert>}}
 
 (2-4) 사용자가 첫 로그인 시 사용할 비밀번호를 입력합니다.

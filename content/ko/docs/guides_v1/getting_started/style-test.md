@@ -30,7 +30,7 @@ description: "디스크립션 스타일 테스트 페이지 입니다 스타일 
 {{<alert title="어드민 권한 할당">}}
 사용자에게 어드민 권한을 부여하려면, [어드민 권한 할당] 드롭다운에서 선택하여 할당할 수 있습니다.
 만약 아무 것도 선택하지 않으면, 해당 사용자에게는 아무런 권한이 부여되지 않습니다.
-권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)에서 확인할 수 있습니다.
+권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)를 참고 하십시오.
 
 ![](/docs/guides_v1/getting_started/root-account_img/root-account_img_05.png)
 {{</alert>}}
@@ -40,7 +40,7 @@ description: "디스크립션 스타일 테스트 페이지 입니다 스타일 
 
 사용자에게 어드민 권한을 부여하려면, [어드민 권한 할당] 드롭다운에서 선택하여 할당할 수 있습니다.
 만약 아무 것도 선택하지 않으면, 해당 사용자에게는 아무런 권한이 부여되지 않습니다.
-권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)에서 확인할 수 있습니다.
+권한에 대한 더 자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)를 참고 하십시오.
 {{</alert>}}
 
 

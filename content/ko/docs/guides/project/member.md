@@ -64,7 +64,7 @@ description: >
 
 프로젝트의 멤버에게 부여할 수 있는 역할(Role)은 `User` 타입의 역할만 가능합니다. 
 
-자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)를 참고하세요.
+자세한 설명은 [여기](/ko/docs/guides/administration/iam-role)를 참고 하십시오.
 
 {{</alert>}}
 
