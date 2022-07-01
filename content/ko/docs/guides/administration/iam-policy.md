@@ -23,9 +23,10 @@ Repository 서비스란 Marketplace 에 연결하기 위한 공유 저장소 서
 
 자세한 내용은 [Understanding Policy](/ko/docs/concepts/identity/rbac/understanding-policy)를 참고해주세요.
 
-Custom 정책만 생성 / 수정 / 삭제가 가능하니, 해당 기능을 이용할 때 타입을 확인 후 진행해주시길 바랍니다.
 
-![policy-full-page](/ko/docs/guides/administration/iam-policy-img/policy-full-page.png)
+{{<alert>}}
+Custom 정책만 생성 / 수정 / 삭제가 가능하니, 해당 기능을 이용할 때 타입을 확인 후 진행해주시길 바랍니다.
+{{</alert>}}
 
 ## 정책 조회하기
 
