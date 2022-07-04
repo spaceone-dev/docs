@@ -51,6 +51,10 @@ description: >
 
 ![user-create-modal-oauth](/ko/docs/guides/administration/iam-user-img/user-create-modal-oauth.png)
 
+{{<alert>}}
+외부 사용자 인증에 대한 자세한 설명은 [여기](/ko/docs/guides/plugins/iam-authentication/)를 참고해 주십시오.
+{{</alert>}}
+
 
 ### API Only 사용자 추가하기
 API 사용자는 클라우드포레 콘솔 접근이 불가하며, 오직 API만 사용할 수 있습니다.
