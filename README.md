@@ -39,6 +39,17 @@ npm install --no-optional -D --save
 
 ## Running Blog locally 
 
+### Set MacOS max file limit
+
+You should set maxfiles limitation; [docsy issue](https://github.com/google/docsy/pull/410/commits/5977e77b27cf42fcfd444ae75444fb92a9aab6f4)
+
+```bash
+sudo launchctl limit maxfiles 65535 200000
+ulimit -n 65535
+sudo sysctl -w kern.maxfiles=200000
+sudo sysctl -w kern.maxfilesperproc=65535
+```
+
 Once you've made your own working copy of this repo, from the root folder, run: 
 
 ```bash
